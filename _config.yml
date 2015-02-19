@@ -23,8 +23,9 @@ footer-links:
   flickr: 
   github: dopeboy
   instagram: 
-  -title: linkedin
-  url: https://www.linkedin.com/pub/manish-sinha/66/5b3/967
+  link: 
+    type: linkedin
+    url: https://www.linkedin.com/pub/manish-sinha/66/5b3/967
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: 
