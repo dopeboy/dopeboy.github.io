@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Software engineer based out of NYC. I like [coding](https://github.com/dopeboy) and [teaching](https://scripted.org/) and sometimes both at the same time.
 
 ### More Information
 
