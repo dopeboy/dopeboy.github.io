@@ -11,7 +11,3 @@ Software engineer based out of NYC. I like coding and teaching and sometimes [bo
 ## Tools
 
 linux mint, vim, php, python, django, mysql, postgres, javascript, java, c#
-
-## Contact me
-
-[arithmetic@gmail.com](mailto:arithmetic@gmail.com)
