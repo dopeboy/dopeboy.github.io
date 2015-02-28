@@ -45,7 +45,7 @@ Nearly all of my clients are non-technical. I don't know if this happened by coi
 
 First, I sit down with them and identify their values and priorities. Then come requirements. More often than not, they don't know what they want which is OK. We discuss, debate, and draw to figure that out. Distilling "what I want" statements into hard technical requirements comes next and I've noticed, oddly enough, clients enjoy this part of the phase the most. I'm not sure why but I think it has to do with bringing in harsh clarity to something that was vague a couple minutes ago. I get a lot of "that's exactly what I mean" moments here. There's analogies to therapy here.
 
-The entire process of taking something that was not known to desired but vague to technically defined to finally implemented is the closest thing there is to the [circle of life](http://en.wikipedia.org/wiki/Circle_of_Life) in this field.
+The entire process of taking something that was not-known to desired-but-vague to technically-defined to finally-implemented is the closest thing there is to the [circle of life](http://en.wikipedia.org/wiki/Circle_of_Life) in this field.
 
 ### Friendships
 
