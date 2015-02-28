@@ -9,7 +9,7 @@ One important caveat worth mentioning is that I never pursued consulting as a me
 
 ### Background
 
-After my startup failed, I decided not to pursue another one right after. I wanted time to internalize [my mistakes I made](http://dopeboy.github.io/Lessons/) on the first go around. After more 14 hour days than I'd like to remember, I also wanted a more relaxed pace of life. Tired of seeing my bank account take a beating for nearly a year straight, income was welcome too. Keeping my brain active and in exercise was another priority. For these reasons and with no prior experience consulting, I dove in. 
+After my startup failed, I decided not to pursue another one right after. I wanted time to internalize [the mistakes I made](http://dopeboy.github.io/Lessons/) on the first go around. After more 14 hour days than I'd like to remember, I also wanted a more relaxed pace of life. Tired of seeing my bank account take a beating for nearly a year straight, income was welcome too. Keeping my brain active and in exercise was another priority. For these reasons and with no prior experience consulting, I dove in. 
 
 ### Physical presence
 
@@ -35,7 +35,7 @@ The downside to the independence is the lack of structure and routine. Workload 
 
 Having been a salaried employee in my past jobs, I was guaranteed to make a fixed sum per time period whether I completed `y` tasks per day or `y+1` tasks per day. Furthermore, the completion of a task resulted in the "award" of another one. This was OK because the more tasks I accomplished, the more productive I was. The more productive I was, the more impact I had on the company, more recognition was received, etc. 
 
-Consulting (especially under fixed contract) changes this around. The one and only goal I have is to minimize the time it takes for me to deliver a working product to specification. The quicker I deliver, the more money I get rewarded. Speed is of the essence. This has pushed me to optimize my tool chain and processes so that my analysis->execute->test->deploy cycles are as tight as possible. *I realize that there are such things as bonuses under the salaried practice. I would argue getting frequent "micro-bonuses" as opposed to one big yearly bonus still has an impact on how differently time is valued under each practice.*
+Consulting (especially under fixed contract) changes this around. The one and only goal I have is to minimize the time it takes for me to deliver a working product to specification. The quicker I deliver, the more money I get rewarded. Time is literally money. This has pushed me to optimize my tool chain and processes so that my analysis->execute->test->deploy cycles are as tight as possible. *I realize that there are such things as bonuses under the salaried practice. I would argue getting frequent "micro-bonuses" as opposed to one big yearly bonus still has an impact on how differently time is valued under each practice.*
 
 I want to be clear that I don't think one practice is better than another. But it is interesting to experience both.
 
