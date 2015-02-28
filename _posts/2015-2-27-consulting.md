@@ -41,7 +41,7 @@ I want to be clear that I don't think one practice is better than another. But i
 
 ### Human problems
 
-Nearly all of my clients are non-technical. I don't know if this happened by coincedence but I love it because I get to put my business analyst hat on and solve *human* problems rather than *machine* problems. *Not to knock those who solve the latter. I've done it and still do.* 
+Nearly all of my clients are non-technical. I don't know if this happened by coincidence but I love it because I get to put my business analyst hat on and solve *human* problems rather than *machine* problems. *Not to knock those who solve the latter. I've done it and still do.* 
 
 First, I sit down with them and identify their values and priorities. Then come requirements. More often than not, they don't know what they want which is OK. We discuss, debate, and draw to figure that out. Distilling "what I want" statements into hard technical requirements comes next and I've noticed, oddly enough, clients enjoy this part of this phase the most. I'm not sure why but I think it has to do with bringing in harsh clarity to something that was vague a couple minutes ago. I get a lot of "that's exactly what I mean" moments here.
 
