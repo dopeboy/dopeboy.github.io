@@ -19,6 +19,14 @@ And I got my first deal.
 
 In the age of phone calls, email, and remote working, I can't stress enough how much my clients value a personal presence. Being in the same office and sitting across the same desk considerably increased my first client's comfortability in working with me. Meetings with pencil and paper and white boards are very powerful. If something went wrong for any of my clients, they knew exactly where they could find me. This made a risky calculation---paying thousands of dollars to someone they had never worked with for something they couldn't directly control---much less riskier.
 
+### Human problems
+
+Nearly all of my clients are non-technical. I don't know if this happened by coincidence but I love it because I get to put my business analyst hat on and solve *human* problems rather than *machine* problems. *Not to knock those who solve the latter. I've done it and still do.* 
+
+First, I sit down with them and identify their values and priorities. Then come requirements. More often than not, they don't know what they want which is OK. We discuss, debate, and draw to figure that out. Distilling "what I want" statements into hard technical requirements comes next and I've noticed, oddly enough, clients enjoy this part of the phase the most. I'm not sure why but I think it has to do with bringing in harsh clarity to something that was vague a couple minutes ago. I get a lot of "that's exactly what I mean" moments here. There are therapeutic elements at play here.
+
+The entire process of taking something that was not-known to desired-but-vague to technically-defined to finally-implemented is the closest thing there is to the [circle of life](http://en.wikipedia.org/wiki/Circle_of_Life) in this field.
+
 ### Immediate rewards 
 
 Having previously worked at a [big company](http://ms.com) and before that, at a [small one](http://whitehouse.gov), I really missed days at the latter. At the former, I never got to see my users interact with my product. This made it difficult to feel rewarded---on an inner level---for my work. 
@@ -38,14 +46,6 @@ Having been a salaried employee in my past jobs, I was guaranteed to make a fixe
 Consulting (especially under fixed contract) changes this around. The one and only goal I have is to minimize the time it takes for me to deliver a working product to specification. The quicker I deliver, the more money I get rewarded. Time is literally money. This has pushed me to optimize my tool chain and processes so that my analysis->execute->test->deploy cycles are as tight as possible. *I realize that there are such things as bonuses under the salaried practice. I would argue getting frequent "micro-bonuses" as opposed to one big yearly bonus still has an impact on how differently time is valued under each practice.*
 
 I want to be clear that I don't think one practice is better than another. But it is interesting to experience both.
-
-### Human problems
-
-Nearly all of my clients are non-technical. I don't know if this happened by coincidence but I love it because I get to put my business analyst hat on and solve *human* problems rather than *machine* problems. *Not to knock those who solve the latter. I've done it and still do.* 
-
-First, I sit down with them and identify their values and priorities. Then come requirements. More often than not, they don't know what they want which is OK. We discuss, debate, and draw to figure that out. Distilling "what I want" statements into hard technical requirements comes next and I've noticed, oddly enough, clients enjoy this part of the phase the most. I'm not sure why but I think it has to do with bringing in harsh clarity to something that was vague a couple minutes ago. I get a lot of "that's exactly what I mean" moments here. There are therapeutic elements at play here.
-
-The entire process of taking something that was not-known to desired-but-vague to technically-defined to finally-implemented is the closest thing there is to the [circle of life](http://en.wikipedia.org/wiki/Circle_of_Life) in this field.
 
 ### Friendships
 
