@@ -49,6 +49,6 @@ The entire process of taking something that was not-known to desired-but-vague t
 
 ### Friendships
 
-There's an interesting nature to colleague based relationships. In some ways, you know your work colleagues better than you know your normal friends. You spend many hours a day with them. You get to see how they react under pressure and adversity. You get to see their character very transparently. There's also a sense of spirit and shared purpose because you're on the same team. A special bond is built. 
+There's an interesting nature to colleague based relationships. In some ways, you know your work colleagues better than you know your normal friends. You spend many hours a day with them. You get to see how they react under pressure and adversity. You get to see their character up close and transparently. There's also a sense of spirit and shared purpose because you're on the same team. A special bond is built. 
 
-I've made life long friends with some of my clients. That, probably more than anything else on this list, has made this journey worth it. 
+I've made life long friends with some of my clients. That, more than anything else on this list, has made consulting special to me.
