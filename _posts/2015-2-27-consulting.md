@@ -5,7 +5,7 @@ title: Consulting
 
 I get asked a lot about what software consulting (aka freelancing) is like. Full-time salaried software developers tend to be the most curious. This post is a collection of observations I've made from my brief time as a consultant. 
 
-One important caveat worth mentioning is that I never pursued consulting as a means to recreate a full-time income. This is something I do on the side and the content below will reflect that.
+One important caveat worth mentioning is that I never pursued consulting as a means to recreate a full-time income. This is something I do on the side and the content below reflects that.
 
 ### Background
 
