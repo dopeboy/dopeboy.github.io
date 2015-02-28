@@ -21,7 +21,7 @@ In the age of phone calls, email, and remote working, I can't stress enough how 
 
 ### Immediate rewards 
 
-Having previously worked at a [big company](http://ms.com) and before that, at a [small one](http://whitehouse.gov), I really missed days at the latter. At the former, I never got to see my users interact with my product. This made it difficult to feel rewarded--on an inner level--for my work. 
+Having previously worked at a [big company](http://ms.com) and before that, at a [small one](http://whitehouse.gov), I really missed days at the latter. At the former, I never got to see my users interact with my product. This made it difficult to feel rewarded---on an inner level---for my work. 
 
 Consulting is the opposite. I see my work used, commented on---and sometimes criticized---right in front of me. The feedback loop is quick and it is tight. Seeing a client improve their productivity or generate more revenue because of code that I wrote is one of the most rewarding feelings I've ever had. 
 
