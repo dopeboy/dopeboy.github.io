@@ -7,7 +7,7 @@ I get asked a lot about what software consulting (aka freelancing) is like. Full
 
 One important caveat worth mentioning is that I never pursued consulting as a means to recreate a full-time income. This is something I do on the side and the content below will reflect that.
 
-## Background
+### Background
 
 After my startup failed, I decided not to pursue another one right after. I wanted time to internalize my mistakes I made on the first go around. After more 14 hour days than I'd like to remember, I also wanted a more relaxed pace of life. Tired of seeing my bank account take a beating for nearly a year straight, money was welcome too. Keeping my brain active and in exercise was another priority. For these reasons and with no prior experience consulting, I dove in. 
 
