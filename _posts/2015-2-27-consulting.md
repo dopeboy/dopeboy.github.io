@@ -13,7 +13,7 @@ After my startup failed, I decided not to pursue another one right after. I want
 
 ### Physical presence
 
-When I quit my job to pursue my startup, I moved into a co-working space in Brooklyn and sat across a real estate broker. One day, he told me he wanted to have a website that his clients could log into and view available properties to rent over a map based layout. He talked to some development shops and got quoted for $X. $X turned out to be significantly greater than his budget and twice as much as what I would do it for. I took him out for coffee and told him just as much.
+When I quit my job to pursue my startup, I moved into a [co-working space in Brooklyn](http://dumbostartuplab.com/) and sat across a real estate broker. One day, he told me he wanted to have a website that his clients could log into and view available properties to rent over a map based layout. He talked to some development shops and got quoted for $X. $X turned out to be significantly greater than his budget and twice as much as what I would do it for. I took him out for coffee and told him just as much.
 
 And I got my first deal. 
 
