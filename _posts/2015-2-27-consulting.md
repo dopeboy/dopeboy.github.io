@@ -29,7 +29,7 @@ Consulting is the opposite. I see my work used, commented on---and sometimes cri
 
 Being a consultant means I am my own boss. I get to decide my schedule. If working on the weekend means more time to work on side projects and research startup ideas during the week, I can. If I absolutely have to push back a deadline, I can. If I need to visit my family on the west coast and work remotely for long stretches, I can. 
 
-The downside to the independence is the lack of structure and routine. Workload can swing wildly from one week to another. Goals that require a recurring commitment such as exercise or cooking dinner sometimes take a backseat.
+The downside to the independence is the lack of structure and routine. Workload can swing wildly from one week to another. Goals that require a recurring commitment such as exercise or cooking sometimes take a backseat.
 
 ### Value of time
 
