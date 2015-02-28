@@ -33,7 +33,7 @@ The downside to the independence is the lack of structure and routine. Workload 
 
 ### Value of time
 
-Having been a salaried employee in my past jobs, I was guaranteed to make a fixed sum per time period whether I completed y tasks per day or y+1 tasks per day. Furthermore, the completion of a task resulted in the "award" of another one. This was OK because the more tasks I accomplished, the more productive I was. The more productive I was, the more impact I had on the company, more recognition was received, etc. 
+Having been a salaried employee in my past jobs, I was guaranteed to make a fixed sum per time period whether I completed `y` tasks per day or `y+1` tasks per day. Furthermore, the completion of a task resulted in the "award" of another one. This was OK because the more tasks I accomplished, the more productive I was. The more productive I was, the more impact I had on the company, more recognition was received, etc. 
 
 Consulting (especially under fixed contract) changes this around. The one and only goal I have is to minimize the time it takes for me to deliver a working produt to specification. The quicker I deliver, the more money I get rewarded. Speed is of the essence. This has pushed me to optimize my tool chain and processes so that my analysis->execute->test cycles are as tight as possible. *I realize that there are such things as bonuses under the salaried practice. Getting frequent "micro-bonuses" as opposed to one big yearly bonus still has an impact on how differently time is valued under each practice.* 
 
