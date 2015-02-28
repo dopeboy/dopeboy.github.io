@@ -6,7 +6,9 @@ permalink: /about/
 
 ## Bio
 
-Software engineer based out of NYC. I like coding and teaching and sometimes [both at the same time](https://scripted.org/).
+Software engineer based out of NYC. Used to work [here](http://ms.com) and [here](http://whitehouse.gov). 
+
+I like coding and teaching and sometimes [both at the same time](https://scripted.org/).
 
 ## Tools
 
