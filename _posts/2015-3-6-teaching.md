@@ -21,7 +21,7 @@ Only later did I realize that there's a big difference between practicing knowle
 
 Teaching also forced me to better understand the "why" behind certain things. I couldn't teach a fact, wave a magic wand, and have everyone commit it to memory. It had to make sense and the only way I could do that was by explaining the rationale behind the fact. *Variable names cannot have spaces in them because the computer cannot tell if you are trying to make one variable or many.*
 
-### Vocabularly
+### Vocabulary
 
 I teach at an international school. My students came to the United States in the past four years. For most, English is their second language. Being able to explain a highly technical domain (programming) using high school level vocabulary   is hard. I'll constantly catch myself using a word like "functional" or "user"  and self correct. If I don't self correct, the three other co-teachers usually will.
 
