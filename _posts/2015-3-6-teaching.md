@@ -23,7 +23,7 @@ Teaching also forced me to better understand the "why" behind certain things. I 
 
 ## Vocabularly
 
-I teach at an international school. My students came to the United States in the past four years. For most, english is their second language. Being able to explain a highly technical domain (programming) using high school level vocabularly is hard. I'll constantly catch myself using a word like "functional" or "user"  and self correct. If I don't self correct, the three other co-teachers usually will.
+I teach at an international school. My students came to the United States in the past four years. For most, English is their second language. Being able to explain a highly technical domain (programming) using high school level vocabulary   is hard. I'll constantly catch myself using a word like "functional" or "user"  and self correct. If I don't self correct, the three other co-teachers usually will.
 
 Over time however, I will introduce these words to my students and ask them to memorize it. I firmly believe one must talk like a programmer before one can be one.
 
@@ -43,7 +43,7 @@ Students (and teachers) break out laughing everytime we do this exercise. And th
 
 ## Growth
 
-Some of my past students have gone on to do programming internships at organizations like Ghostery and Teach for America. Others have gone on to pursue computer science in college. Remembering where they were on day one and how far they have triumped since then leaves me speechless.
+Some of my past students have gone on to do programming internships at organizations like Ghostery and Teach for America. Others have gone on to pursue computer science in college. Remembering where they were on day one and how far they have triumphed since then leaves me speechless.
 
 When I was a student, our teachers asked us to keep in touch with them. I now understand why. They want to see what imprint, if any, they left on their students as they went to pursue their careers. I hope I leave something positive behind---programming related or not---with my students.
 
