@@ -53,4 +53,4 @@ Coding is rewarding and teaching is rewarding. Being able to do both at the same
 
 Here's a picture of the crew from a hackathon last year:
 
-
+![image](http://i.imgur.com/HUdSPh7.jpg)
