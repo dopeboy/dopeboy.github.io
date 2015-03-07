@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teaching
+title: Teaching code
 ---
 
 ### Background
