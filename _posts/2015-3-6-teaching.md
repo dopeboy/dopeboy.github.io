@@ -45,7 +45,7 @@ Students (and teachers) break out laughing everytime we do this exercise. And th
 
 Some of my past students have gone on to do programming internships at organizations like Ghostery and Teach for America. Others have gone on to pursue computer science in college. Remembering where they were on day one and how far they have triumphed since then leaves me speechless.
 
-When I was a student, our teachers asked us to keep in touch with them. I now understand why. They want to see what imprint, if any, they left on their students as they went on to pursue their careers. I hope I leave something positive behind---programming related or not---with my students.
+When I was a student, our teachers asked us to keep in touch with them. I now understand why. They want to see what imprint, if any, they left on their students as they went on to pursue their careers. I hope I leave something positive behind---programming related or not---with my students. I'm genuinely curious to see where they end up.
 
 ### Parting thoughts
 
