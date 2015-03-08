@@ -38,9 +38,7 @@ Syntax errors, misnamed function calls, and plain typos can kill the morale of a
 
 Perhaps the most difficult challenge I had when I started out teaching was with keeping control of the classroom. The biggest mistake a teacher can make when interacting with students is by treating them like adults. Students look to the teacher as a source of authority. The moment they don't see that is the moment they lose focus and drive. 
 
-This means being "mean" sometimes. This means cutting students off, passive-aggressively waiting for them to be quiet, and metting out a stern reprimand if no one does their homework. Tactics deemed unimaginable when dealing with adults are sometimes required in a high school classroom. And while students may disagree at first, deep down I think they appreciate the high expectations.
-
-And more often than not, they rise to them.
+This means being "mean" sometimes. This means cutting students off, passive-aggressively waiting for them to be quiet, and metting out a stern reprimand if no one does their homework. Tactics deemed unimaginable when dealing with adults are sometimes required in a high school classroom. And while students may disagree at first, deep down I think they appreciate a classroom that is in control and has high expectations.
 
 ### Fun 
 
