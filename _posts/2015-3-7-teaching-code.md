@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Teaching code
+redirect_from: "/foo"
 ---
 
 ### Background
