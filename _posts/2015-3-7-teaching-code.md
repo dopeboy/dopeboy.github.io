@@ -4,13 +4,13 @@ title: Teaching code
 redirect_from: "/teaching/"
 ---
 
+Since September 2013, I've been volunteering twice a week for an hour and a half at a [high school in downtown Brooklyn](http://www.mybihs.org/) where I, along with three other developers, teach the [basics of HTML, CSS, and JavaScript](https://github.com/ScriptEdcurriculum/curriculum) to about fifteen students. This post is a collection of some of the observations I've made during that time.
+
 ### Background
 
 When I quit my job two years ago to [pursue a startup](http://dopeboy.github.io/Lessons/), I had a new, more flexible work schedule. I wanted to use this as an opportunity to do things I had neglected in the past such as exercising regularly, cooking regularly, and keeping in better contact with friends. I also wanted to give back to my community on a more frequent basis. For reasons that deserve another post, I had realized that my mental happiness was connected to, among other things, helping those around me. It was difficult to feel inner satisfaction without volunteering some amount of my time to bettering the social conditions of others. 
 
 I had a casual interest in teaching and I absolutely loved coding so I thought I'd try to marry the two and teach people how to code. After some googling, I came across a [non-profit](https://scripted.org/) that puts developers in high school classrooms across NYC. And so I signed up. 
-
-Since September 2013, I've been volunteering twice a week for an hour and a half at a [high school in downtown Brooklyn](http://www.mybihs.org/) where I, along with three other developers, teach the [basics of HTML, CSS, and JavaScript](https://github.com/ScriptEdcurriculum/curriculum) to about fifteen students. This post is a collection of some of the observations I've made during that time.
 
 ### Knowing versus teaching
 
