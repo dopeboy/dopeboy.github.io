@@ -11,6 +11,8 @@ When scanning on Linux using the Brother HL-2280DW, I've relied on reformedmusin
 
    >The node name appears in the current BRAdmin Light window. The default node name of the print server in the printer is "BRNxxxxxxxxxxxx" or "BRWxxxxxxxxxxxx". ("xxxxxxxxxxxx" is based on your printer’s MAC Address / Ethernet Address.)<br/><br/>
 
-   So run:``nmap -sP 192.168.1.0-255 | grep "BR\(W\|N\)" | awk '{print $NF; exit}' | tr -d '()'``That will return the IP that you can feed into the brsaneconfig4 command. 
+   So run:<br/><br/> 
+   ``nmap -sP 192.168.1.0-255 | grep "BR\(W\|N\)" | awk '{print $NF; exit}' | tr -d '()'``<br/><br/> 
+   That will return the IP that you can feed into the brsaneconfig4 command. 
 
 Happy scanning.
