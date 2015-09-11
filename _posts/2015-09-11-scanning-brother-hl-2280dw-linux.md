@@ -13,7 +13,7 @@ When scanning on Linux using the Brother HL-2280DW, I've relied on reformedmusin
 in the printer is “BRNxxxxxxxxxxxx” or “BRWxxxxxxxxxxxx”. (“xxxxxxxxxxxx” is based on your printer’s
 MAC Address / Ethernet Address.)
 
-So run:
+   So run:
 
 ```nmap -sP 192.168.1.0-255 | grep "BR\(W\|N\)" | awk '{print $NF; exit}' | tr -d '()'```
 
