@@ -10,7 +10,7 @@ Software engineer based out of NYC. Used to work [here](http://ms.com) and [here
 
 I like coding and teaching and sometimes [both at the same time](https://scripted.org/).
 
-Want to do a startup? Hit me up.
+Want to do collaborate? Hit me up.
 
 ## Tools
 
