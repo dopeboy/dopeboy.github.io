@@ -7,9 +7,9 @@ When scanning on Linux using the Brother HL-2280DW, I've relied on reformedmusin
 
 1.  Find the subnet you're on by finding your internal IP:
 
-```ip route get 8.8.8.8 | awk '{print $NF; exit}'```      
+   ```ip route get 8.8.8.8 | awk '{print $NF; exit}'```      
 
-Say you get 192.168.1.8. Probably a safe assumption the printer is on 192.168.1.* 
+   Say you get 192.168.1.8. Probably a safe assumption the printer is on 192.168.1.* 
 
 2.  Use `nmap` to find all the hosts on your subnet. `nmap` will also spit out nodenames. Per Brother's [documentation](https://www.brother-usa.com/VirData/Content/en-US%5CLabelPrinters%5CConsumer%5CNetworkUsersManual%5CNUG_QL710W_720NW_EN.pdf): 
 
