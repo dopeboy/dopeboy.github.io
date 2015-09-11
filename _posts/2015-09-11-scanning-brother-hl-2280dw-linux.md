@@ -15,8 +15,8 @@ MAC Address / Ethernet Address.)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So run:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```nmap -sP 192.168.1.0-255 | grep "BR\(W\|N\)" | awk '{print $NF; exit}' | tr -d '()'```
+    ```nmap -sP 192.168.1.0-255 | grep "BR\(W\|N\)" | awk '{print $NF; exit}' | tr -d '()'```
 
-That will return the IP that you can feed into the brsaneconfig4 command. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That will return the IP that you can feed into the brsaneconfig4 command. 
 
 Happy scanning.
