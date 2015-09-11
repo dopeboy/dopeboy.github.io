@@ -13,9 +13,9 @@ When scanning on Linux using the Brother HL-2280DW, I've relied on reformedmusin
 in the printer is “BRNxxxxxxxxxxxx” or “BRWxxxxxxxxxxxx”. (“xxxxxxxxxxxx” is based on your printer’s
 MAC Address / Ethernet Address.)
 
-&nbsp;&nbsp;&nbsp;So run:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So run:
 
-```nmap -sP 192.168.1.0-255 | grep "BR\(W\|N\)" | awk '{print $NF; exit}' | tr -d '()'```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```nmap -sP 192.168.1.0-255 | grep "BR\(W\|N\)" | awk '{print $NF; exit}' | tr -d '()'```
 
 That will return the IP that you can feed into the brsaneconfig4 command. 
 
