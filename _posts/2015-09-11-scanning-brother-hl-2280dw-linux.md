@@ -12,7 +12,7 @@ Say you get 192.168.1.8. Probably a safe assumption the printer is on 192.168.1.
 
    >The node name appears in the current BRAdmin Light window. The default node name of the print server in the printer is "BRNxxxxxxxxxxxx" or "BRWxxxxxxxxxxxx". ("xxxxxxxxxxxx" is based on your printer’s MAC Address / Ethernet Address.)<br/><br/>
 
-      So run:<br/><br/> 
+      So run:
    ``nmap -sP 192.168.1.0-255 | grep "BR\(W\|N\)" | awk '{print $NF; exit}' | tr -d '()'``<br/><br/> 
    That will return the IP that you can feed into the brsaneconfig4 command. 
 
