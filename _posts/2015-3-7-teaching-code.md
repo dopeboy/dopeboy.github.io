@@ -14,7 +14,7 @@ I had a casual interest in teaching and I absolutely loved coding so I thought I
 
 ### Knowing versus teaching
 
-I didn't bother preparing for the first couple of classes. Writing "hello world" in HTML, making the background of a page red, changing font sizes? Please. I could do these in my sleep. And so, with supreme confidence, I walked into class and starting teaching.
+I didn't bother preparing for the first couple of classes. Writing "hello world" in HTML, making the background of a page red, changing font sizes? Please. I could do that in my sleep. And so, with supreme confidence, I walked into class and starting teaching.
 
 And failed pretty quickly. 
 
