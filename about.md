@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Bio
 
-Software engineer based out of <s>NYC</s> the bay area. Used to work [here](http://ms.com) and [here](http://whitehouse.gov).
+Software engineer based out of <s>NYC</s> the bay area. Used to work [here](http://ms.com) and [here](http://whitehouse.gov). Also launched a startup that [didn't work out](http://dopeboy.github.io/Lessons/). 
 
 I like coding and teaching and sometimes [both at the same time](https://scripted.org/).
 
