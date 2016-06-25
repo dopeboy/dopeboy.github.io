@@ -52,3 +52,5 @@ I want to be clear that I don't think one practice is better than another. But i
 There's an interesting nature to colleague based relationships. In some ways, you know your work colleagues better than you know your normal friends. You spend many hours a day with them. You get to see how they react under pressure and adversity. You get to see their character up close and transparently. There's also a sense of spirit and shared purpose because you're on the same team. A special bond is built. 
 
 I've made life long friends with some of my clients. That, more than anything else on this list, has made consulting special to me.
+
+*edit 06/24 - additional commentary in [HackerNews thread](https://news.ycombinator.com/item?id=9123822)*
