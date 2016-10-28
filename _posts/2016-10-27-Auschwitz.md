@@ -39,4 +39,14 @@ I believe you have to experience love in order to share it. I believe you have t
 
 If you get a chance to visit Auschwitz, do it. Don't look at it as a "buzz kill". Look at it an example of what hate is capable of manifesting itself as. Look at it as a place where evil briefly triumphed. Look at it as proof of what happens when people look the other way so that next time, you don't.
 
-<pics>
+## Pictures
+
+<img src="https://s3-us-west-1.amazonaws.com/dopeboy/auschwitz-blog-post/1a.jpg">
+<img src="https://s3-us-west-1.amazonaws.com/dopeboy/auschwitz-blog-post/2a.jpg">
+<img src="https://s3-us-west-1.amazonaws.com/dopeboy/auschwitz-blog-post/3a.jpg">
+<img src="https://s3-us-west-1.amazonaws.com/dopeboy/auschwitz-blog-post/4a.jpg">
+<img src="https://s3-us-west-1.amazonaws.com/dopeboy/auschwitz-blog-post/5a.jpg">
+<img src="https://s3-us-west-1.amazonaws.com/dopeboy/auschwitz-blog-post/6a.jpg">
+<img src="https://s3-us-west-1.amazonaws.com/dopeboy/auschwitz-blog-post/7a.jpg">
+<img src="https://s3-us-west-1.amazonaws.com/dopeboy/auschwitz-blog-post/9a.jpg">
+<img src="https://s3-us-west-1.amazonaws.com/dopeboy/auschwitz-blog-post/8a.jpg">
