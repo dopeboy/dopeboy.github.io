@@ -23,7 +23,7 @@ I visited the Auschwitz-Birkenau concentration camp this past July while on a wo
 
 7. A lot of the bunkers have been converted into museum exhibits. Some of the exhibits contain possessions of the people killed there. There are entire rooms full of shoes, suitcases, and cooking ware. The suitcases still had the name of the owners on them. 
 
-  There is one particular exhibit that I won't be able to erase from memory. Before entering it, we were told to turn off our cameras. We then entered a large room full of tons of hair---enough to fill an entire shipping container. The Nazis---ruthless in their "resource" management---exploited everything they could from their inmates including their hair. They used it for making furniture <look up>. Hair doesn't lose its structure over time; it mostly stays preserved. I saw ponytails and buns.
+   There is one particular exhibit that I won't be able to erase from memory. Before entering it, we were told to turn off our cameras. We then entered a large room full of tons of hair---enough to fill an entire shipping container. The Nazis---ruthless in their "resource" management---exploited everything they could from their inmates including their hair. They used it for making furniture <look up>. Hair doesn't lose its structure over time; it mostly stays preserved. I saw ponytails and buns.
 
   This was the hardest moment for me during the tour. I remember feeling hot and numb walking out of that room.
 
