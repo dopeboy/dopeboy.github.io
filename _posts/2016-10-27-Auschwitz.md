@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Visiting Auschwitz
+title: Auschwitz
 ---
 
 I visited the Auschwitz-Birkenau concentration camp this past July while on a work trip in Poland. I went because I wanted to see what evil looks like so that I could identify it in the future. I went without anyone I knew. These are some observations from my trip.
