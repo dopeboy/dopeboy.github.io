@@ -9,11 +9,11 @@ I visited the Auschwitz-Birkenau concentration camp this past July while on a wo
 
 1. I took a shared van with other tourists to the camp. Everyone except the driver was from North America or Asia. The mood was festive on the road. We talked about what brought us to Poland, what we missed about home (Chipotle in my case), and which restaurants to check out.
 
-2. The city <link> where the camp is located is unremarkable. It's a sleepy town with houses, churches, and warehouses. Had it not been for the presence of a concentration camp, I would have thought I was in a small town in the midwest.
+2. The city where the camp is located, [Oświęcim](https://en.wikipedia.org/wiki/O%C5%9Bwi%C4%99cim), is unremarkable. It's a sleepy town with houses, churches, and warehouses. Had it not been for the presence of a concentration camp, I would have thought I was in a small town in the midwest.
 
-3. Everyone went quiet when we entered the camp's outskirts. We crossed a bridge and saw the railroad tracks that head into the camp. [This moment marked the beginning of the descent.]
+3. Everyone went quiet when we entered the camp's outskirts. We crossed a bridge and saw the railroad tracks that head into the camp. This moment marked the beginning of the descent.
 
-4. [Everyone was required to be part of a tour group. We listened to our tour guide through radio headsets. I liked this because I had some control over the pace. I could spend extra time on something that interested me and still catch everything the guide said.]
+4. Everyone was required to be part of a tour group. We listened to our tour guide through radio headsets. I liked this because I had some control over the pace. I could spend extra time on something that interested me and still catch everything the guide said.
 
 5. Standing on the railroad tracks where people deboarded was an eerie experience. It was the site where death certificates were figuratively signed because it was where "selection" occured. This involved a fake doctor visually "inspecting" people and determining whether they were fit to "work". Typically, women and children were told to go one way and able bodied men another. The women and children were then told to strip and enter a room to "shower". Our tour guide told us something I'll never forget: before entering the "shower" room, some tied their shoes to each other so that they could easily retrieve them later.
 
