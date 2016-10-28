@@ -15,7 +15,7 @@ I visited the Auschwitz-Birkenau concentration camp this past July while on a wo
 
 4. Everyone was required to be part of a tour group. We listened to our tour guide through radio headsets. I liked this because I had some control over the pace. I could spend extra time on something that interested me and still catch everything the guide said.
 
-5. Standing on the railroad tracks where people deboarded was an eerie experience. It was the site where death certificates were figuratively signed because it was where "selection" occured. This involved a fake doctor visually "inspecting" people and determining whether they were fit to "work". Typically, women and children were told to go one way and able bodied men another. The women and children were then told to strip and enter a room to "shower". Our tour guide told us something I'll never forget: before entering the "shower" room, some tied their shoes to each other so that they could easily retrieve them later.
+5. Standing on the railroad tracks where people deboarded was an eerie experience. It was the site where death certificates were figuratively signed because it was where "selection" occurred. This involved a fake doctor visually "inspecting" people and determining whether they were fit to "work". Typically, women and children were told to go one way and able bodied men another. The women and children were then told to strip and enter a room to "shower". Our tour guide told us something I'll never forget: before entering the "shower" room, some tied their shoes to each other so that they could easily retrieve them later.
 
 
       Walking inside those rooms is a haunting experience. It is dark and cold. There are holes in the ceiling---the only sources of sunlight---where Zyklon-B canisters were dropped from. My stomach felt hollow and light.]
@@ -35,7 +35,7 @@ I visited the Auschwitz-Birkenau concentration camp this past July while on a wo
 
 ## Parting thoughts
 
-I believe you have to experience love in order to share it. I believe you have to experience evil in order to prevent it. I visited Auscwhitz because it helped me understand what evil looks like so that I don't fail to identify it in the future. If I can identify evil, then at worst I can stop it and at best, I can preempt it.
+I believe you have to experience love in order to share it. I believe you have to experience evil in order to prevent it. I visited Auschwitz because it helped me understand what evil looks like so that I don't fail to identify it in the future. If I can identify evil, then at worst I can stop it and at best, I can preempt it.
 
 If you get a chance to visit Auschwitz, do it. Don't look at it as a "buzz kill". Look at it an example of what hate is capable of manifesting itself as. Look at it as a place where evil briefly triumphed. Look at it as proof of what happens when people look the other way so that next time, you don't.
 
