@@ -26,7 +26,7 @@ I visited the Auschwitz-Birkenau concentration camp this past July while on a wo
 
    There is one particular exhibit that I won't be able to erase from memory. Before entering it, we were told to turn off our cameras. We then entered a large room full of tons of hair---enough to fill an entire shipping container. The Nazis---ruthless in their "resource" management---exploited everything they could from their inmates including their hair. They used it for making furniture <look up>. Hair doesn't lose its structure over time; it mostly stays preserved. I saw ponytails and buns.
 
-  This was the hardest moment for me during the tour. I remember feeling hot and numb walking out of that room.
+      This was the hardest moment for me during the tour. I remember feeling hot and numb walking out of that room.
 
 8. I saw Israeli tour groups. Many of these groups were full of teenagers who wore the flag of Israel as a cape. I saw some Israeli groups sitting in a circle far away from the tour path. They seemed to be having a roundtable like discussion with an adult moderator. I would have done anything to listen in on that conversation. I am curious how this part of history is taught to Israeli children. I am curious how it affects Israeli thinking today.
 
