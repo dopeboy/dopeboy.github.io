@@ -5,7 +5,7 @@ title: Letter to my 18 year old self
 
 Many of my favorite retired basketball players have [written](http://www.theplayerstribune.com/category/letter-to-my-younger-self/) letters to their younger selves over at the Player's Tribune. Inspired by that series, I'm writing a letter to my 18 year old self:
 
-* Girls are as nervous about you as you are about them. Break the ice. Talk to them and if you like one, ask them out on a date.
+* Girls are as nervous about you as you are about them. Break the ice. Talk to them and if you like one, ask her out on a date.
 
 * School is important but remember to have fun too. Don't go home on the weekends. Spend some time in your new community at college. You will make life long friends over the next couple years.
 
