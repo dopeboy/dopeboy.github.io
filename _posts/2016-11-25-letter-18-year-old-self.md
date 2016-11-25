@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Letter to my 18 year old self
+title: A letter to my 18 year old self
 ---
 
 Many of my favorite retired basketball players have [written](http://www.theplayerstribune.com/category/letter-to-my-younger-self/) letters to their younger selves over at the Player's Tribune. Inspired by that series, I'm writing a letter to my 18 year old self:
