@@ -37,7 +37,7 @@ Hmm. Let's see how the link gets rendered in each of the three web clients. I we
 Interesting. Gmail's client injected the "http://" prefix into the 'href' attribute. And what did Outlook do?
 
 ```
-[example.com/building/show/72a53035-a2c5-4e8e-924f-eec8c5d4408c]Camille Rouge Apartments
+[example.com/building/show/123]Camille Rouge Apartments
 ```
 
 That is plain text. Outlook drops the `<a>` tag altogether. And iCloud mail?
@@ -55,10 +55,10 @@ Nope. What is going on? Well, we know the link works in Gmail and we also know i
 ```
 domain = "https://example.com"
 url = ...
-email_text = ,,,
+email_text = ...
 api_call_to_mailgun(email_text, ...)
 ```
 
-And that actually worked! Looks like the iCloud and Outlook clients are picky.
+And that actually works across all three clients! Looks like the iCloud and Outlook clients are picky.
 
 Moral of the story: include the "http[s]" prefix in your `href` attributes. Hope that saves someone out there some unnecessary head scratching.
