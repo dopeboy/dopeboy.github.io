@@ -19,7 +19,7 @@ That's just text. Strange. We did the same again with an Outlook account and som
 
 Uhh OK. Almost looks like markdown. 
 
-My first thought was maybe the mail server was changing the message's source code. I checked and the source was the same across all three clients. I went back to my code and checked exactly what I was sending out:
+My first thought was maybe the receiving mail server was changing the message's source code. I checked and the source was the same across all three clients. I went back to my code and checked exactly what I was sending out:
 
 ```
 domain = "example.com"
