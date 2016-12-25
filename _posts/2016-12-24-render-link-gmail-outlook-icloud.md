@@ -63,4 +63,4 @@ And that actually works across all three clients! Looks like the iCloud and Outl
 
 Moral of the story: include the "http[s]" prefix in your `href` attributes. Hope that saves someone out there some unnecessary head scratching.
 
-*Edit 12/24 - mini HN discussion about the cause [here](https://news.ycombinator.com/item?id=13252640#13252877).*
+*Edit 12/24 - mini HN discussion about the cause [here](https://news.ycombinator.com/item?id=13252640#13252877). Turns out if you leave out the prefix, the link gets treated as a relative path which I'm guessing Outlook & iCloud bet against and throw out the link altogether.*
