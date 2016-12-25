@@ -5,11 +5,11 @@ title: Rendering a HTML link across Gmail, Outlook, and iCloud mail
 
 I came across an interesting bug recently that had me scratching my head for awhile. A client of mine wanted his web application to send emails to users. The body of the email would contain links. 
 
-Simple enough I thought. I've done this before. I'll use Mailgun's API and send raw HTML in the payload. I did exactly that and then we started testing. We had the web application send an email to a Gmail account and everything worked:
+Simple enough I thought. I've done this before. I'll use Mailgun's API and send raw HTML in the payload. I did exactly that and then we started testing. We had the web application send an email to a Gmail account and it rendered as follows:
 
 <img src="https://s3-us-west-1.amazonaws.com/dopeboy/render-email-blog-post/rendered_gmail.png"/>
 
-We did the same with an iCloud account and something funny happened:
+OK great. And the link works too. We did the same with an iCloud account and something funny happened:
 
 <img src="https://s3-us-west-1.amazonaws.com/dopeboy/render-email-blog-post/rendered_icloud.png"/>
 
