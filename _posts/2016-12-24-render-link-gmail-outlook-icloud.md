@@ -13,9 +13,11 @@ OK great. And the link works too. We did the same with an iCloud account and som
 
 <img src="https://s3-us-west-1.amazonaws.com/dopeboy/render-email-blog-post/rendered_icloud.png"/>
 
-We did the same again with an Outlook account and something funny happened again:
+That's just text. Strange. We did the same again with an Outlook account and something funny happened again:
 
 <img src="https://s3-us-west-1.amazonaws.com/dopeboy/render-email-blog-post/rendered_outlook.png"/>
+
+Uhh OK. ALmost looks like markdown. 
 
 My first thought was maybe the mail server was changing the message's source code. I checked and the source was the same across all three clients. I went back to my code and checked exactly what I was sending out:
 
