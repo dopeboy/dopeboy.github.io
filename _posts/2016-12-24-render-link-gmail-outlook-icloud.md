@@ -7,12 +7,15 @@ I came across an interesting bug recently that had me scratching my head for awh
 
 Simple enough I thought. I've done this before. I'll use Mailgun's API and send raw HTML in the payload. I did exactly that and then we started testing. We had the web application send an email to a Gmail account and everything worked:
 
-<img src="https://s3-us-west-1.amazonaws.com/dopeboy/render-email-blog-post/w3c.png"/>
+<img src="https://s3-us-west-1.amazonaws.com/dopeboy/render-email-blog-post/rendered_gmail.png"/>
 
 We did the same with an iCloud account and something funny happened:
 
+<img src="https://s3-us-west-1.amazonaws.com/dopeboy/render-email-blog-post/rendered_icloud.png"/>
+
 We did the same again with an Outlook account and something funny happened again:
 
+<img src="https://s3-us-west-1.amazonaws.com/dopeboy/render-email-blog-post/rendered_outlook.png"/>
 
 My first thought was maybe the mail server was changing the message's source code. I checked and the source was the same across all three clients. I went back to my code and checked exactly what I was sending out:
 
@@ -43,7 +46,7 @@ That is plain text. Outlook drops the `<a>` tag altogether. And iCloud mail?
 
 Am I sending out non-compliant HTML? I went over to the [W3C HTML validator](https://validator.w3.org) and checked:
 
-<img>
+<img src="https://s3-us-west-1.amazonaws.com/dopeboy/render-email-blog-post/w3c.png"/>
 
 Nope. What is going on? Well, we know the link works in Gmail and we also know it is injecting the protocol prefix. Let's try putting in the prefix ourselves:
 
