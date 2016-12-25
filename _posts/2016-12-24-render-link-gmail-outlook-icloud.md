@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rendering a HTML link across Gmail, Outlook, and iCloud mail
+title: Rendering an HTML link across Gmail, Outlook, and iCloud mail
 ---
 
 I came across an interesting bug recently that had me scratching my head for awhile. A client of mine wanted his web application to send emails to users. The body of the email would contain links. 
