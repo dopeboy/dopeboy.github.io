@@ -17,7 +17,7 @@ That's just text. Strange. We did the same again with an Outlook account and som
 
 <img src="https://s3-us-west-1.amazonaws.com/dopeboy/render-email-blog-post/rendered_outlook.png"/>
 
-Uhh OK. ALmost looks like markdown. 
+Uhh OK. Almost looks like markdown. 
 
 My first thought was maybe the mail server was changing the message's source code. I checked and the source was the same across all three clients. I went back to my code and checked exactly what I was sending out:
 
@@ -31,7 +31,7 @@ api_call_to_mailgun(email_text, ...)
 Hmm. Let's see how the link gets rendered in each of the three web clients. I went to each and inspected the link element. Gmail gave me:
 
 ```
-<a href="http://example.com/building/show/123" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://example.com/building/show/123&amp;source=gmail&amp;ust=1482686872740000&amp;usg=AFQjCNGDsVUEvhZC0ztVDi5B9IQWMM266Q">Camille Rouge Apartments</a>
+<a href="http://example.com/building/show/123" target="_blank">Camille Rouge Apartments</a>
 ```
 
 Interesting. Gmail's client injected the "http://" prefix into the 'href' attribute. And what did Outlook do?
@@ -61,4 +61,4 @@ api_call_to_mailgun(email_text, ...)
 
 And that actually worked! Looks like the iCloud and Outlook clients are picky.
 
-Moral of the story: include the "http[s]" prefix in your `href` attributes. Hope that saves someone out there some unncessary head scratching.
+Moral of the story: include the "http[s]" prefix in your `href` attributes. Hope that saves someone out there some unnecessary head scratching.
