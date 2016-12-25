@@ -62,3 +62,5 @@ api_call_to_mailgun(email_text, ...)
 And that actually works across all three clients! Looks like the iCloud and Outlook clients are picky.
 
 Moral of the story: include the "http[s]" prefix in your `href` attributes. Hope that saves someone out there some unnecessary head scratching.
+
+*Edit 12/24 - mini HN discussion about the cause [here](https://news.ycombinator.com/item?id=13252640#13252877).*
