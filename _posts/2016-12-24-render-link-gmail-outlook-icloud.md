@@ -34,7 +34,7 @@ Hmm. Let's see how the link gets rendered in each of the three web clients. I we
 <a href="http://example.com/building/show/123" target="_blank">Camille Rouge Apartments</a>
 ```
 
-Interesting. Gmail's client injected the "http://" prefix into the 'href' attribute. And what did Outlook do?
+Interesting. Gmail's client injected the "http://" prefix into the `href` attribute. And what did Outlook do?
 
 ```
 [example.com/building/show/123]Camille Rouge Apartments
