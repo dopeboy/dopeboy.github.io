@@ -1,21 +1,11 @@
 ---
 layout: default
 ---
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">    
-      
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.content}}
-      </div>
-      
-      <div class="date">
-        Written on {{ post.date | date: "%B %e, %Y" }}
-        {{ paginator.next_page }}
-      </div>
-    </article>
+<ul class="posts">
+  {% for post in page.posts %}
+    <li>
+      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
   {% endfor %}
-</div>
+</ul>
