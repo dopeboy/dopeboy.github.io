@@ -5,14 +5,13 @@ title: I’ll write a Slack bot for you if you donate $5000 to a non-profit that
 
 Yep. Really. 
 
-I will write a Slack bot that does whatever you want it to do (within reason and subject to my discretion) if you make a $5000 tax-deductible donation to a non-profit that I love: ScriptEd.
+I'll write a Slack bot that does whatever you want it to do (within reason and subject to my discretion) if you make a $5000 tax-deductible donation to a non-profit that I love: ScriptEd.
 
 ## What is ScriptEd?
 
 [ScriptEd](https://scripted.org/) is a non-profit that places developers in under-resourced high schools. These developers volunteer their time to teach HTML, CSS, and JavaScript. They have 200 volunteers that serve **over 900 students** across the Bay Area and New York City.
 
 I’ve been a volunteer teacher with them for three years. Here’s a photo of me with some of my former students at a hackathon:
-
 
 <p align="center">
      <img src="http://i.imgur.com/vpvRCg7.png" width="256"/>
