@@ -13,6 +13,11 @@ I will write a Slack bot that does whatever you want it to do (within reason and
 
 I’ve been a volunteer teacher with them for three years. Here’s a photo of me with some of my former students at a hackathon:
 
+
+<p align="center">
+     <img src="http://i.imgur.com/vpvRCg7.png" width="256"/>
+</p>
+
 ## Why am I doing this?
 
 Because there are a lot of very bright kids that go through life never knowing that they could influence the technology around them. I want to change that. I don’t make a whole lot of money right now so the next best thing I can offer is my talent and my time.
@@ -23,7 +28,7 @@ Your tax-deductible donation of $5000 will go towards purchasing 20 Chromebooks 
 
 ## Have you written a slack bot before?
 
-Yup. This bot supports slash commands, @ mentions, and DMs. It interacts with a Python based backend and stores data into a Postgres database.
+[Yup](https://braidhq.com). This bot supports slash commands, @ mentions, and DMs. It interacts with a Python based backend and stores data into a Postgres database.
 
 ## OK. What are the terms and conditions?
 
