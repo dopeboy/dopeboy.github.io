@@ -25,7 +25,7 @@ Because there are a lot of very bright kids that go through life never knowing t
 
 Your tax-deductible donation of $5000 will go towards purchasing 20 Chromebooks that ScriptEd students will use during classes and hackathons.
 
-## Have you written a slack bot before?
+## Have you written a Slack bot before?
 
 [Yup](https://braidhq.com). This bot supports slash commands, @ mentions, and DMs. It interacts with a Python based backend and stores data into a Postgres database.
 
@@ -33,7 +33,7 @@ Your tax-deductible donation of $5000 will go towards purchasing 20 Chromebooks 
 
 1. If I agree to work with you, I’ll need a detailed specification that describes what the bot will do in gory detail. The scope of the bot needs to be within reason for something I would bill $5000 for.
 2. Once we agree on the specification, you’ll need to make an upfront donation of $2500 to ScriptEd so that I can confirm you’re serious. I’ll begin development once I’ve confirmed the donation.
-3. I’ll write the slack bot in Python using the Django framework. I’ll deploy it on Heroku. You’ll be responsible for the monthly Heroku charges.
+3. I’ll write the Slack bot in Python using the Django framework. I’ll deploy it on Heroku. You’ll be responsible for the monthly Heroku charges.
 4. I’ll own the code until the bot is complete. Once it’s done and you’ve tested it, I’ll wait for you to make the second $2500 donation. Once I’ve confirmed that, I’ll transfer ownership of the Github repository storing the bot code over to you.
 5. I’ll aim to be all done by September 30th.
 6. Software is complex and unexpected things happen. After I’ve shipped the bot, I’ll be available for a month to squash any bugs that crop up.
