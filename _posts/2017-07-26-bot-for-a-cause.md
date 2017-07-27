@@ -36,8 +36,8 @@ Your tax-deductible donation of $5000 will go towards purchasing 20 Chromebooks 
 3. I’ll write the slack bot in Python using the Django framework. I’ll deploy it on Heroku. You’ll be responsible for the monthly Heroku charges.
 4. I’ll own the code until the bot is complete. Once it’s done and you’ve tested it, I’ll wait for you to make the second $2500 donation. Once I’ve confirmed that, I’ll transfer ownership of the Github repository storing the bot code over to you.
 5. I’ll aim to be done by September 30th.
-Software is complex and unexpected things happen. After I’ve shipped the bot, I’ll be available for a month to squash any bugs that crop up.
-6. I won’t handle getting the bot approved for submission to the Slack app store.
+6. Software is complex and unexpected things happen. After I’ve shipped the bot, I’ll be available for a month to squash any bugs that crop up.
+7. I won’t handle getting the bot approved for submission to the Slack app store.
 
 ## Sounds good. Where do I apply?
 
