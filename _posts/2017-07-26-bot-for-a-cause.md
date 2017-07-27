@@ -5,7 +5,7 @@ title: I’ll write a Slack bot for you if you donate $5000 to a non-profit that
 
 Yep. Really. 
 
-I'll write a Slack bot that does whatever you want it to do (within reason and subject to my discretion) if you make a $5000 tax-deductible donation to a non-profit that I love: ScriptEd.
+I'll write a Slack bot that does whatever you want it to do (within reason) if you make a $5000 tax-deductible donation to a non-profit that I love: ScriptEd.
 
 ## What is ScriptEd?
 
