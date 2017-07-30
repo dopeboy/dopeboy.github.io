@@ -35,7 +35,7 @@ Your tax-deductible donation of $5000 will go towards purchasing 20 Chromebooks 
 2. Once we agree on the specification, you’ll need to make an upfront donation of $2500 to ScriptEd so that I can confirm you’re serious. I’ll begin development once I’ve confirmed the donation.
 3. I’ll write the Slack bot in Python using the Django framework. I’ll deploy it on Heroku. You’ll be responsible for the monthly Heroku charges.
 4. I’ll own the code until the bot is complete. Once it’s done and you’ve tested it, I’ll wait for you to make the second $2500 donation. Once I’ve confirmed that, I’ll transfer ownership of the Github repository storing the bot code over to you.
-5. I’ll aim to be all done by September 30th.
+5. I’ll aim to be all done by ~~September 30th~~ a date we can agree on.
 6. Software is complex and unexpected things happen. After I’ve shipped the bot, I’ll be available for a month to squash any bugs that crop up.
 7. I won’t handle getting the bot approved for submission to the Slack app store. That'll be on you.
 
