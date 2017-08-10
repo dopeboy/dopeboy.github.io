@@ -9,14 +9,24 @@ Programmers get in the zone too. And when we're under this spell, we're just as 
 
 This is what I experience when I'm in the zone as a programmer:
 
-1. I'm asocial. I don't want to talk to anyone. If I do find myself in a conversation, I'm not able to function correctly because I can't. That part of my brain is disabled. Words will try to come out but won't. I'll mostly listen and patiently wait until I can return to the code. To the other person, I probably appear like I'm somewhere else.
+### I'm asocial
 
-2. I'm ridiculously productive. I'm moving from feature to feature with my fingers dancing along the way. When I'm not in the zone, my usual rhythm is: think -> develop -> test. When I'm in the zone, thinking and developing happen simultaneously. I have a background thread in my head that is performing the design and staying one step ahead. I have a foreground thread that is translating that design to code and then that code into keystrokes. I'd estimate my rate of output to be ~3x of what it normally is. 
+I don't want to talk to anyone. If I do find myself in a conversation, I'm not able to function correctly because I can't. That part of my brain is disabled. Words will try to come out but won't. I'll mostly listen and patiently wait until I can return to the code. To the other person, I probably appear like I'm somewhere else.
 
-3. I'm very focused. That itch I get to check my email? Gone. That desire to take a break and talk to a colleague in the office? Gone. My body telling me it wants more food? It can wait until I DoorDash something in. My singular goal when I'm in the zone is cranking out code. Anything (or anyone) who inhibits that gets put on the side. There are some tough consequences to being so focused. I get easily irritated which might make people think I'm hard to deal with. I also lose track of time and "wake up" to a stream of messages from loved ones asking where I've been.
+### I'm ridiculously productive.
 
-4. I'm one with the code. I have a detailed mental model of it in my head. I know what each component does and I know how each component is connected. I am able to visualize all of this in my head and traverse it very quickly.
+I'm moving from feature to feature with my fingers dancing along the way. When I'm not in the zone, my usual rhythm is: think -> develop -> test. When I'm in the zone, thinking and developing happen simultaneously. I have a background thread in my head that is performing the design and staying one step ahead. I have a foreground thread that is translating that design to code and then that code into keystrokes. I'd estimate my rate of output to be ~3x of what it normally is. 
 
-5. I'm emotionally neutral. I'm not feeling happy nor sad when I'm in the zone. In fact, that part of my brain is pretty much turned off; I'm fully operating on logic, ration, and reason. After I "wake up" out of the zone, I feel very happy because I have accomplished a lot of tasks over a short amount of time. I experience a high of sorts at this moment.
+### I'm very focused. 
+
+That itch I get to check my email? Gone. That desire to take a break and talk to a colleague in the office? Gone. My body telling me it wants more food? It can wait until I DoorDash something in. My singular goal when I'm in the zone is cranking out code. Anything (or anyone) who inhibits that gets put on the side. There are some tough consequences to being so focused. I get easily irritated which might make people think I'm hard to deal with. I also lose track of time and "wake up" to a stream of messages from loved ones asking where I've been.
+
+### I'm one with the code
+
+I have a detailed mental model of it in my head. I know what each component does and I know how each component is connected. I am able to visualize all of this in my head and traverse it very quickly.
+
+### I'm emotionally neutral.
+
+I'm not feeling happy nor sad when I'm in the zone. In fact, that part of my brain is pretty much turned off; I'm fully operating on logic, ration, and reason. After I "wake up" out of the zone, I feel very happy because I have accomplished a lot of tasks over a short amount of time. I experience a high of sorts at this moment.
 
 I haven't nailed down a formula to get in the zone but I have some clues. The strongest variables are: environment (quiet and ideally no one around), pressure (a deadline needs to be imminent ideally < 12 hours), and health (the more I keep my body in shape, the more it gives back to me during these intense stretches).
