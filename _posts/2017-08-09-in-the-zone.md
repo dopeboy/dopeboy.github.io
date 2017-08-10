@@ -19,4 +19,4 @@ This is what I experience when I'm in the zone as a programmer:
 
 5. I'm emotionally neutral. I'm not feeling happy nor sad when I'm in the zone. In fact, that part of my brain is pretty much turned off; I'm fully operating on logic, ration, and reason. After I "wake up" out of the zone, I feel very happy because I have accomplished a lot of tasks over a short amount of time. I experience a euphoric rush which helps with the crash that follows.
 
-6. Cuba is a beautiful place. The beaches, countryside, and people are gorgeous. Cuba should change and it will soon enough. But I hope these three things stay the same.  
+I haven't nailed down a formula to get in the zone but I have some clues. The strongest variables that impact whether I can turn on beast mode are: environment (quiet and ideally no one around), pressure (a deadline needs to be imminent ideally < 12 hours), and health (the more I give my body rest and exercise, the more it gives back to me these periods to challenge it).
