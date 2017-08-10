@@ -23,7 +23,7 @@ That itch I get to check my email? Gone. That desire to take a break and talk to
 
 ### I'm one with the code
 
-In its most basic form, software is a structure of interconnected components. Each of these components do some kind of work and then pass on the result to some other component until it hits us, the user. When I'm in the zone, I have a detailed mental model of this structure. This means I can traverse the chain of components very quickly and isolate (1) where I need to insert code and (2) where I need to route the output of that code. This is the closest programming gets to being in the Matrix.
+In its most basic form, software is a structure of interconnected components. Each of these components do some kind of work and then pass on the result to some other component until it hits us, the (end)user. When I'm in the zone, I have a detailed mental model of this structure. This means I can traverse the chain of components very quickly and isolate (1) where I need to insert code and (2) where I need to route the output of that code. This is the closest programming gets to being in the Matrix.
 
 ### I'm emotionally neutral
 
