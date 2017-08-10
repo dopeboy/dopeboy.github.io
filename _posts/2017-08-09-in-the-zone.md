@@ -5,7 +5,7 @@ title: What it feels like to be in the zone as a programmer
 
 The phrase "in the zone" is defined as a period of intense focus and productivity. When a basketball player is in the zone, they make more shots because the hoop appears larger to them. They steal more passes because time feels slower to them. They outrun their opponents because their body feels lighter to them. 
 
-Programmers get in the zone too. And when we're under this spell, we're just as unstoppable. We're able to move quick and knock out a lot of code. Seemingly tough problems are broken down instantly. It's like turning on a cheat code in a video game: everything becomes effortless. 
+Programmers get in the zone too. And when we're under this spell, we're just as unstoppable. We're able to move quick and knock out a lot of code. Seemingly tough problems are broken down instantly. It's like turning on a cheat code in a video game---everything becomes effortless. 
 
 This is what I experience when I'm in the zone as a programmer:
 
@@ -19,4 +19,4 @@ This is what I experience when I'm in the zone as a programmer:
 
 5. I'm emotionally neutral. I'm not feeling happy nor sad when I'm in the zone. In fact, that part of my brain is pretty much turned off; I'm fully operating on logic, ration, and reason. After I "wake up" out of the zone, I feel very happy because I have accomplished a lot of tasks over a short amount of time. I experience a euphoric rush which helps with the crash that follows.
 
-I haven't nailed down a formula to get in the zone but I have some clues. The strongest variables that impact whether I can turn on beast mode are: environment (quiet and ideally no one around), pressure (a deadline needs to be imminent ideally < 12 hours), and health (the more I give my body rest and exercise, the more it gives back to me these periods to challenge it).
+I haven't nailed down a formula to get in the zone but I have some clues. The strongest variables that impact whether I can turn on beast mode are: environment (quiet and ideally no one around), pressure (a deadline needs to be imminent ideally < 12 hours), and health (the more I keep my body in shapre, the more it gives back to me during these intense stretches).
