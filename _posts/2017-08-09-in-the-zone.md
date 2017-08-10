@@ -28,5 +28,3 @@ I have a detailed mental model of it in my head. I know what each component does
 ### I'm emotionally neutral.
 
 I'm not feeling happy nor sad when I'm in the zone. In fact, that part of my brain is pretty much turned off; I'm fully operating on logic, ration, and reason. After I "wake up" out of the zone, I feel very happy because I have accomplished a lot of tasks over a short amount of time. I experience a high of sorts at this moment.
-
-I haven't nailed down a formula to get in the zone but I have some clues. The strongest variables are: environment (quiet and ideally no one around), pressure (a deadline needs to be imminent ideally < 12 hours), and health (the more I keep my body in shape, the more it gives back to me during these intense stretches).
