@@ -27,4 +27,4 @@ I have a detailed mental model of it in my head. I know what each component does
 
 ### I'm emotionally neutral.
 
-I'm not feeling happy nor sad when I'm in the zone. In fact, that part of my brain is pretty much turned off; I'm fully operating on logic, ration, and reason. After I "wake up" out of the zone, I feel very happy because I have accomplished a lot of tasks over a short amount of time. I experience a high at this moment.
+I'm not feeling happy or sad when I'm in the zone. In fact, that part of my brain is pretty much turned off; I'm fully operating on logic, ration, and reason. After I "wake up" out of the zone, I feel very happy because I have accomplished a lot of tasks over a short amount of time. I experience a high at this moment.
