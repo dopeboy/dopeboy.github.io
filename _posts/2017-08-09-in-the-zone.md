@@ -11,7 +11,7 @@ This is what I experience when I'm in the zone as a programmer:
 
 ### I'm asocial
 
-I don't want to talk to anyone. If I do find myself in a conversation, I'm not able to function correctly because I can't. That part of my brain is disabled. Words will try to come out but won't. I'll mostly listen and patiently wait until I can return to the code. To the other person, I probably appear like I'm somewhere else.
+I don't want to talk to anyone. If I do find myself in a conversation, I'm not able to function correctly because I can't. That part of my brain is disabled. Words will try to come out but won't. I'll mostly listen and patiently wait until I can return to the code. To the other person, I probably appear like I'm somewhere else. It's because I am.
 
 ### I'm ridiculously productive
 
