@@ -5,7 +5,7 @@ title: What it feels like to be in the zone as a programmer
 
 The phrase "in the zone" is defined as a period of intense focus and productivity. When a basketball player is in the zone, they make more shots because the hoop appears larger to them. They steal more passes because time feels slower to them. They outrun their opponents because their body feels lighter to them. 
 
-Programmers get in the zone too. And when we're under this spell, we're just as unstoppable. We're able to move quick and knock out a lot of code. Seemingly tough problems are broken down instantly. It's like turning on a cheat code in a video game---everything becomes effortless. 
+Programmers get in the zone too. And when we're under this spell, we're just as unstoppable. We're able to move quick and knock out a lot of code. Seemingly tough problems break down instantly. It's like turning on a cheat code in a video game---everything becomes effortless. 
 
 This is what I experience when I'm in the zone as a programmer:
 
@@ -23,7 +23,7 @@ That itch I get to check my email? Gone. That desire to take a break and talk to
 
 ### I'm one with the code
 
-I have a detailed mental model of it in my head. I know what each component does and I know how each component is connected. I am able to visualize all of this and traverse it very quickly.
+In its most basic form, software is a structure of interconnected components. Each of these components do some kind of work and then pass on the result to some other component until it hits us, the user. When I'm in the zone, I have a detailed mental model of this structure. This means I can traverse the chain of components very quickly and isolate (1) where I need to insert code and (2) where I need to route the output of that code. This is the closest programming gets to being in the Matrix.
 
 ### I'm emotionally neutral
 
