@@ -3,7 +3,7 @@ layout: post
 title: What it feels like to be in the zone as a programmer
 ---
 
-The phrase "in the zone" is defined as a period of intense focus and productivity. When a basketball player is in the zone, they make more shots because the hoop appears larger to them. They steal more passes because time feels slower to them. They outrun their opponents because their body feels lighter to them. 
+The phrase "in the zone" is defined as a period of intense focus and productivity. When a basketball player is in the zone, they make more shots because the hoop appears larger to them. They steal more passes because time feels slower to them. They outrun opponents because their body feels lighter to them. 
 
 Programmers get in the zone too. And when we're under this spell, we're just as unstoppable. We're able to move quick and knock out a lot of code. Seemingly tough problems break down instantly. It's like turning on a cheat code in a video game---everything becomes effortless. 
 
