@@ -23,7 +23,7 @@ That itch I get to check my email? Gone. That desire to take a break and talk to
 
 ### I'm one with the code
 
-I have a detailed mental model of it in my head. I know what each component does and I know how each component is connected. I am able to visualize all of this in my head and traverse it very quickly.
+I have a detailed mental model of it in my head. I know what each component does and I know how each component is connected. I am able to visualize all of this and traverse it very quickly.
 
 ### I'm emotionally neutral.
 
