@@ -28,7 +28,7 @@ python-3.6.2
       "postinstall": "yarn run prod"
    }
 ```
-  
+<br/>
 4. Tell Heroku details about node and npm. In `package.json`, in the root node, add an `engines` entry:
 ```  
   "engines": {
@@ -36,22 +36,22 @@ python-3.6.2
     "npm": "3.9.3"
   }
 ```
-
+<br/>
 5. For some reason, a hardcoded non HTTPS prefix is used for every request to the backend. This won't work on Heroku which by default serves on HTTPS. In `./src/static/utils/config.js`, clear the `SERVER_URL` variable:
 ```
 export const SERVER_URL = '';
 ```
-
+<br/>
 6. Heroku expects a `requirements.txt` in the root whereas the Seedstars folks store in a directory. Create a `requirements.txt` in your root that refers to the files in the directory:
 ```
 -r ./py-requirements/prod.txt
 ```
-
+<br/>
 7. We'll use `dj_database_url` to help Django get the database string from Heroku. In `./py-requirements/prod.txt`, add:
 ```
 dj-database-url==0.4.2
 ```
-
+<br/>
 8. In `src/djangoreactredux/settings/prod.py`, add the following. Make sure to remove the exisiting `DATABASES` variable:
 ```
 import dj_database_url
@@ -60,22 +60,22 @@ import dj_database_url
 DATABASES = {}
 DATABASES['default'] = dj_database_url.config()
 ```
-
+<br/>
 9. By default, Heroku skips installing everything in `devDependencies` in our package.json. To fix that, run:
 ```
 heroku config:set NPM_CONFIG_PRODUCTION=false
 ```
-
+<br/>
 10. Check out `./src/djangoreactredux/wsgi.py`. There's a line in there that says if we don't specify an environment variable, Django will load the dev settings file. TO correct that, run:
 ```
 heroku config:set DJANGO_SETTINGS_MODULE=djangoreactredux.settings.prod
 ```
-
+<br/>
 11. We're ready to push our code! This should go without a hitch:
 ```
 git push heroku master
 ```
-
+<br/>
 12. Run the migrations and load the initial data from the fixtures and then open our project!
 ```
 heroku run python src/manage.py migrate
