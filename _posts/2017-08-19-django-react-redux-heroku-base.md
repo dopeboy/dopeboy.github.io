@@ -29,10 +29,10 @@ python-3.6.2
       "prod": "...",
       "postinstall": "yarn run prod"
    }
-      ```
+```
 
       In the root, add an `engines` entry:
-
+      
 ```  
   "engines": {
     "node": "6.2.2",
