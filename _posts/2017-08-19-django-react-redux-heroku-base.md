@@ -10,10 +10,34 @@ Here are the adjustments needed to get that boilerplate project deployed on Hero
 ## Instructions
 
 1. Add a `Procfile` to your root directory with the following contents:
-``
+```
 web: gunicorn --pythonpath src djangoreactredux.wsgi
-``
+```
 
+2. Add a `runtime.txt` to your root directory with the following contents:
+```
+python-3.6.2
+```
 
+3. Add the following to your `package.json`:
+
+In `scripts`, add a `postinstall` entry:
+
+```
+"scripts": {
+  "dev": "....",
+  "prod": "...",
+  "postinstall": "yarn run prod"
+ }
+```
+
+In the root, add an `engines` entry:
+
+```  
+"engines": {
+  "node": "6.2.2",
+  "npm": "3.9.3"
+}
+```
 
 
