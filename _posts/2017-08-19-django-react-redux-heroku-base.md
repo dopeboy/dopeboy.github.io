@@ -22,19 +22,19 @@ python-3.6.2
 <br/>
 3. In `package.json`, in the `scripts` section, add a `postinstall` entry. This runs after a `yarn` (which runs a `npm install`) and has webpack generate the static JavaScript files you will serve:  
 ```
-  "scripts": {
-      "dev": "....",
-      "prod": "...",
-      "postinstall": "yarn run prod"
-   }
+"scripts": {
+  "dev": "....",
+  "prod": "...",
+  "postinstall": "yarn run prod"
+}
 ```
 <br/>
 4. Tell Heroku details about node and npm. In `package.json`, in the root node, add an `engines` entry:
 ```  
-  "engines": {
-    "node": "6.2.2",
-    "npm": "3.9.3"
-  }
+"engines": {
+  "node": "6.2.2",
+  "npm": "3.9.3"
+}
 ```
 <br/>
 5. For some reason, a hardcoded non HTTPS prefix is used for every request to the backend. This won't work on Heroku which by default serves on HTTPS. In `./src/static/utils/config.js`, clear the `SERVER_URL` variable:
