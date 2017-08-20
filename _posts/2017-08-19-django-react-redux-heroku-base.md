@@ -10,9 +10,9 @@ Here are the adjustments needed to get that boilerplate project deployed on Hero
 ## Instructions
 
 1. Add a `Procfile` to your root directory with the following contents:
-```
+``
 web: gunicorn --pythonpath src djangoreactredux.wsgi
-```
+``
 
 
 
