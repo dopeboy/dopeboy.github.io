@@ -21,19 +21,19 @@ python-3.6.2
 
 3. Add the following to your `package.json`:
 
-  In `scripts`, add a `postinstall` entry:
+      In `scripts`, add a `postinstall` entry:
 
-  ```
+```
   "scripts": {
-    "dev": "....",
-    "prod": "...",
-    "postinstall": "yarn run prod"
+      "dev": "....",
+      "prod": "...",
+      "postinstall": "yarn run prod"
    }
-  ```
+      ```
 
-  In the root, add an `engines` entry:
+      In the root, add an `engines` entry:
 
-  ```  
+```  
   "engines": {
     "node": "6.2.2",
     "npm": "3.9.3"
