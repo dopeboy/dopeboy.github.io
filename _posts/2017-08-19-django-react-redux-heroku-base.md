@@ -13,7 +13,7 @@ Here are the adjustments needed to get that boilerplate project deployed on Hero
 ```
 web: gunicorn --pythonpath src djangoreactredux.wsgi
 ```
-
+<br/>
 
 2. Tell Heroku which python runtime to use. Add a `runtime.txt` to your root directory with the following contents:
 ```
