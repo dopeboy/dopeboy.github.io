@@ -71,12 +71,20 @@ heroku config:set NPM_CONFIG_PRODUCTION=false
 heroku config:set DJANGO_SETTINGS_MODULE=djangoreactredux.settings.prod
 ```
 <br/>
-11. We're ready to push our code! This should go without a hitch:
+
+11. Set our buildpacks so that Heroku knows what kind of application we're pushing to it:
+```
+heroku buildpacks:add --index 1 heroku/nodejs
+heroku buildpacks:add --index 2 heroku/python
+```
+<br/>
+
+12. We're ready to push our code! This should go without a hitch:
 ```
 git push heroku master
 ```
 <br/>
-12. Run the migrations and load the initial data from the fixtures and then open our project!
+13. Run the migrations and load the initial data from the fixtures and then open our project!
 ```
 heroku run python src/manage.py migrate
 heroku run python src/manage.py loaddata src/fixtures.json
