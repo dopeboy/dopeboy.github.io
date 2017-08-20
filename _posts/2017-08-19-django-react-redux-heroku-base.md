@@ -14,6 +14,7 @@ Here are the adjustments needed to get that boilerplate project deployed on Hero
 web: gunicorn --pythonpath src djangoreactredux.wsgi
 ```
 
+
 2. Tell Heroku which python runtime to use. Add a `runtime.txt` to your root directory with the following contents:
 ```
 python-3.6.2
@@ -70,7 +71,7 @@ heroku config:set NPM_CONFIG_PRODUCTION=false
 heroku config:set DJANGO_SETTINGS_MODULE=djangoreactredux.settings.prod
 ```
 
-11. We're ready to push our code!
+11. We're ready to push our code! This should go without a hitch:
 ```
 git push heroku master
 ```
