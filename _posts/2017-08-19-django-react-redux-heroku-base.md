@@ -19,7 +19,7 @@ web: gunicorn --pythonpath src djangoreactredux.wsgi
 ```
 python-3.6.2
 ```
-
+<br/>
 3. In `package.json`, in the `scripts` section, add a `postinstall` entry. This runs after a `yarn` (which runs a `npm install`) and has webpack generate the static JavaScript files you will serve:  
 ```
   "scripts": {
