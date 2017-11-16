@@ -5,7 +5,7 @@ title: People don't care how a product is built
 
 *This is originally from my application to the [Recurse Center 1 week mini retreat](https://www.recurse.com/blog/121-come-to-rc-for-a-one-week-retreat). The question that I'm answering is: What is the most fascinating thing you've learned in the past month?*
 
-People don't care how a product is built. People don't care what languages and frameworks are used to build a product. They care about two things: (1) what the product does for them (logic) and (2) how the product makes them feel (emotion).
+People don't care how a product is built. People don't care what languages and frameworks are used to build a product. They care about two things: (1) what the product does for them [logic] and (2) how the product makes them feel [emotion].
 
 As a clasically trained engineer, I've been conditioned to believe the opposite. I've been taught that I need to optimize for minimal memory usage and maximum processing efficiency. In fact, I've spent hundreds of hours across school and career performing this exercise over and over again.
 
