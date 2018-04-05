@@ -15,6 +15,6 @@ I just finished my PADI open water certification in Playa Del Carmen, Mexico. I 
 
 * There was a wall we passed over in Cozumel. Looking down off of it and seeing the beginning of a dark abyss was spooky and thrilling at the same time.
 
-Overall I had an awesome time. If Soren, Alejandra, Christian, Gustavo, or Patrick are reading - thanks so much for bringing me into the world of diving. If you're out in Playa Del Carmen, check out their shop. It's called [Diversity Divers](http://diversitydiving.com/) and they're super awesome.
+Overall I had an awesome time. If Soren, Alejandra, Christian, Gustavo, or Patrick are reading - thanks so much for bringing me into the world of diving. If you're out in Playa Del Carmen, check out their shop. It's called [Diversity Diving](http://diversitydiving.com/) and they're super awesome.
 
 [*Cross posted on reddit*](https://www.reddit.com/r/scuba/comments/8a28al/just_finished_my_open_water_cert_in_mexico_couple/?st=jfmv3e5k&sh=3b73e940)
