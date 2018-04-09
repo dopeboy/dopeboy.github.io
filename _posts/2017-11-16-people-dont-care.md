@@ -1,6 +1,6 @@
 ---
 layout: post
-title: People don't care how a product is built
+title: People don't care how your product is built
 ---
 
 *This is originally from my application to the [Recurse Center 1 week mini retreat](https://www.recurse.com/blog/121-come-to-rc-for-a-one-week-retreat). The question that I'm answering is: What is the most fascinating thing you've learned in the past month?*
