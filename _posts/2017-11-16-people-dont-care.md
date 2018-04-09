@@ -14,3 +14,9 @@ And what I've learned is it's mostly poop. It sets out with a false assumption t
 It's been a long journey but I'm slowly getting better at (1) observing how people behave, (2) listening to what people say, and (3) building bare minimum software that solves a problem and also makes people feel good. 
 
 Once these points are hit, I _then_ think about engineering the ideal solution.
+
+*Edit 04/09*
+
+I've had some time to let this marinate and discuss it with colleagues. Here’s my updated thinking: it is situational. If you’re short on resources or unsure about whether what you build will have product market fit on day 1, I think that calls for a lean approach like the one I described above. Here, it makes sense to collect technical debt in exchange for speed. If, however, the opposite of the above is true (high resources & sure of PMF on day 1), then it makes sense to think more thoughtfully about the design and architecture of the product.
+
+What I’m trying to surface with this piece is that while clasically trained engineers excel in the latter environment (they were bred for it, afterall), they often stumble in the former because they fail to shed ingrained habits that priortize engineering perfection over speed. This impacts how quickly (if, at all) you accomplish the **most important feat** in all of this which is to establish product market fit.
