@@ -7,7 +7,7 @@ title: Results from my first annual Slack bot drive for ScriptEd
 
 Last year, I [posted an offer](http://dopeboy.github.io/bot-for-a-cause/) to write a Slack bot for any company willing to donate $5000 to [ScriptEd](https://scripted.org/), a non-profit I volunteer for. I'm very proud to announce that [**Kleiner Perkins**](http://www.kpcb.com/) took up the offer and I just shipped a Slack bot for them. 
 
-This was very much an experiment and I'm glad it concluded successfully. Here's a couple learnings I wrote down along the way:
+Here are some learnings I wrote down along the way:
 
 1. I'm a four year classroom volunteer for ScriptEd and while I love teaching, I wanted to find another way to contribute. I wanted to test whether I could turn my time and talent into a project into a material donation to them. I think I successfully validated this.
 
@@ -17,3 +17,4 @@ This was very much an experiment and I'm glad it concluded successfully. Here's 
 
 4. Total level of effort: ~12 hours of planning & designing, ~32 hours of devleopment, and ~16 hours of QA, bug fixing, etc = **~60 hours of labor**.
 
+This was very much an experiment and I’m glad it concluded successfully. Am I going to do it again? Absolutely. Stay tuned for an announcement in the Fall.
