@@ -15,7 +15,7 @@ It's been a long journey but I'm slowly getting better at (1) observing how peop
 
 Once these points are hit, I _then_ think about engineering the ideal solution.
 
-*Edit 04/09*
+**Edit 04/09**
 
 I've had some time to let this marinate and discuss it with colleagues. Here’s my updated thinking: it is situational. If you’re short on resources or unsure about whether what you build will have product market fit on day 1, I think that calls for a lean approach like the one I described above. Here, it makes sense to collect technical debt in exchange for speed. If, however, the opposite of the above is true (high resources & sure of PMF on day 1), then it makes sense to think more thoughtfully about the design and architecture of the product.
 
