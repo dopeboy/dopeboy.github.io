@@ -5,7 +5,7 @@ title: Results from my first annual Slack bot drive for ScriptEd
 
 <img src="https://i.imgur.com/BdtyTSb.png"/>
 
-Last year, I [posted an offer](http://dopeboy.github.io/bot-for-a-cause/) to write a Slack bot for any company willing to donate $5000 to [ScriptEd](https://scripted.org/), a non-profit I volunteer for. I'm very proud to announce that [**Kleiner Perkins**](http://www.kpcb.com/) took up the offer and I just finished shipping a Slack bot for them.
+Last year, I [posted an offer](http://dopeboy.github.io/bot-for-a-cause/) to write a Slack bot for any company willing to donate $5000 to [ScriptEd](https://scripted.org/), a non-profit I volunteer for. I'm very proud to announce that [**Kleiner Perkins**](http://www.kpcb.com/) took up the offer and we just shipped the bot last week.
 
 Here are a couple learnings from the journey:
 
