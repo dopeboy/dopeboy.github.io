@@ -9,7 +9,7 @@ Last year, I [posted an offer](http://dopeboy.github.io/bot-for-a-cause/) to wri
 
 Here are a couple learnings from the journey:
 
-1. I'm a four year classroom volunteer for ScriptEd and while I love teaching, I wanted to find another way to contribute. I wanted to test whether I could turn my time and talent into a material donation to them. I also wanted to test whether a company would be more incenticized to participate in such a project knowing that their money would be going to a good cause. I think I successfully validated both of these points.
+1. I'm a four year classroom volunteer for ScriptEd and while I love teaching, I wanted to find another way to contribute. I wanted to test whether I could turn my time and talent into a material donation to them. I also wanted to test whether a company would be more incentivized to participate in such a project knowing that their money would be going to a good cause. I think I successfully validated both of these points.
 
 2. The initial offer was unclear to many. It made it to the [front page of HackerNews](https://news.ycombinator.com/item?id=15121050) which revealed some confusion about the scope and complexity of the Slack bot being offered. I think I could tighten this up next time around.
 
