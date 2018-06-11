@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Results from my first attempt at making Neopolitan Pizza
+title: Results from my first attempt at making Neapolitan Pizza
 ---
 
 <img src="https://i.imgur.com/L8lLDjj.jpg"/>
 
-Based off of Kenji's [Hacker Free Neopolitan Pizza](https://www.seriouseats.com/recipes/2010/09/hacker-free-neapolitan-pizza-for-a-home-kitchen-recipe.html) recipe
+Based off of Kenji's [Hacker Free Neapolitan Pizza](https://www.seriouseats.com/recipes/2010/09/hacker-free-neapolitan-pizza-for-a-home-kitchen-recipe.html) recipe
 
 Couple thoughts:
 
-* This is the closest to neopolitan I've gotten. Thin crust, leopard pattern on the top and bottom. 
+* This is the closest to neapolitan I've gotten. Thin crust, leopard pattern on the top and bottom. 
 * It wasn't as chewy as I wanted it to be (the test I use is whether it folds rather than bends when pinched by hand end to end - it'd mostly fold but not as sharply as an american slice).
 * I wanted the cheese to burn a little more but that'd mean the crust would overcook. Not quite sure what the solution is here.
 * There's a step in the recipe where you leave the dough out to rise. Mine did not rise. Reasons? I think too much hydration + the oil in the bowl sank from the sides to the bottom and engulfed the dough.
