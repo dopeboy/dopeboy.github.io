@@ -3,7 +3,7 @@ layout: post
 title: Disabled controls in Semantic UI
 ---
 
-I'm a big fan of Semantic UI and use the React library in all my projects. One place where they could improve is how they decide to style disabled controls. For example, consider a form with one enabled and one disabled input box:
+I'm a big fan of [Semantic UI](https://semantic-ui.com/) and use the React library in all my projects. One place where they could improve is how they decide to style disabled controls. For example, consider a form with one enabled and one disabled input box:
 
 <img src='https://i.imgur.com/444n6iA.png'/>
 
@@ -19,7 +19,7 @@ Material:<br/><br/>
 
 In both instances, the label and text are readable. If we want our SUI controls to look like that, here's the SCSS that will accomplish that:
 
-``
+```
 .ui.form .disabled.field {
     opacity: 1.00;
 
@@ -35,7 +35,7 @@ In both instances, the label and text are readable. If we want our SUI controls 
             opacity: 1;
         }
     }
-``
+```
 
 which results in:
 
