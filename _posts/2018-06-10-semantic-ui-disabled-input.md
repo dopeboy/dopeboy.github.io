@@ -19,7 +19,7 @@ Material:<br/><br/>
 
 In both instances, the label and text are readable. If we want our SUI controls to look like that, here's the SCSS that will accomplish that:
 
-```
+``
 .ui.form .disabled.field {
     opacity: 1.00;
 
@@ -35,7 +35,7 @@ In both instances, the label and text are readable. If we want our SUI controls 
             opacity: 1;
         }
     }
-```
+``
 
 which results in:
 
