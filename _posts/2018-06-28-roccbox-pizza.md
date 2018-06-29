@@ -25,11 +25,11 @@ I followed [Kenji's recipe for Neapolitan dough](https://www.seriouseats.com/rec
 
 ## Results
 
-<img src='https://i.imgur.com/2gbup3j.png' width="300px"/>
+<img src='https://i.imgur.com/2gbup3j.png' width="400px"/>
 <img src='https://i.imgur.com/WihLe9j.png' width="400px"/>
 <img src='https://i.imgur.com/kIBruQc.jpg' width="400px"/>
 
-Excusing the mushrooms, we see decent leopard patterning on the underbelly. I think the sides could have been more evenly done. The internals look good based off the cross section. Texture was nice and chewy, not crunchy. One area for improvement is getting more fluff on the edges:
+We see decent leopard patterning on the underbelly. I think the sides could have been more evenly done. The internals look good based off the cross section. Texture was nice and chewy, not crunchy. One area for improvement is getting more fluff on the edges:
 
 <img src='https://i.imgur.com/aFneW8j.gif'/>
 
