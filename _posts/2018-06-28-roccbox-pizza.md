@@ -13,6 +13,8 @@ I bought the Roccbox online for $599. They ship out of Virginia so if you're on 
 
 It's heavy. Their claim on it being portable is a little bit of a stretch. "Semi portable" is probably more like it. Packaging, etc is on point. Setting it up is a breeze. There's nothing really to do but stretch out the leg stands and connect the burner. I use the gas burner, not the wood.
 
+<img src='https://i.imgur.com/1SRSfOa.jpg' width="400px"/>
+
 ## Cooking
 
 I followed [Kenji's recipe for Neapolitan dough](https://www.seriouseats.com/recipes/2012/07/basic-neapolitan-pizza-dough-recipe.html#comments-32611) using King Arthur's bread flour instead of 00 Caputo. Couple observations & lessons:
@@ -22,6 +24,8 @@ I followed [Kenji's recipe for Neapolitan dough](https://www.seriouseats.com/rec
 * Initially, I exposed each fourth of the pizza to the flame once and then took it out. This resulted in excessive burning. Exposing each quadrant to the flame for a shorter duration multiple times (~2, maybe 3) seems like the way to go. It's more of an even cook.
 
 * Dust the peel so that the dough doesn't stick to it when you try to slide it off into the oven.
+
+<img src='https://i.imgur.com/BWEHaSv.png' width="400px"/>
 
 ## Results
 
