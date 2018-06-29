@@ -3,11 +3,11 @@ layout: post
 title: Neapolitan pizza in a Roccbox
 ---
 
-To cook good Neapolitan pizza, you need high heat (900F+). A conventional oven won't provide that so you need a specialized oven. After some research, I came across [Kenji's fantastic piece comparing multiple pizza ovens](https://www.seriouseats.com/2017/05/best-backyard-pizza-ovens-review.html) and ended up buying a Roccbox.
+To cook good Neapolitan pizza, you need high heat (900F+). A conventional oven won't provide that so you need a specialized oven. After some research, I came across [Kenji's fantastic piece comparing multiple pizza ovens](https://www.seriouseats.com/2017/05/best-backyard-pizza-ovens-review.html) and ended up buying a [Roccbox](https://www.roccbox.com/us/product/).
 
 ## Ordering it
 
-I bought the Roccbox online for $599. They ship out of Virginia so if you're on the west coast like me, expect a shipping time of a week. After I had ordered it, I didn't get a confirmation for a couple days and had to ask over email for a tracking number. My guess is they're small and still figuring that part out. It wasn't a big deal, just something to be aware of.
+I bought the Roccbox online for $599. They ship out of Virginia so if you're on the west coast like me, expect a shipping time of a week. After I had ordered it, I didn't get a confirmation for a couple days and had to ask over email for a tracking number. My guess is they're still figuring things out as a startup. It wasn't a big deal, just something to be aware of.
 
 ## Package and assembly
 
@@ -19,9 +19,17 @@ I followed [Kenji's recipe for Neapolitan dough](https://www.seriouseats.com/rec
 
 * Turn the flame up all the way during preheat but then turn it down before putting in your pizza to prevent burnage.
 
-* Initially, I exposed each fourh of the pizza to the flame once and then took it out. This results in excessive burning. Instead, exposing each quadrant to the flame for a shorter duration multiple times (~2, maybe 3) is the way to go. Everything cooks better.
+* Initially, I exposed each fourth of the pizza to the flame once and then took it out. This resulted in excessive burning. Exposing each quadrant to the flame for a shorter duration multiple times (~2, maybe 3) seems like the way to go. It's more of an even cook.
 
 * Dust the peel so that the dough doesn't stick to it when you try to slide it off into the oven.
+
+## Results
+
+<img src='https://i.imgur.com/i4zD9cwl.png' width="300px"/>
+<img src='https://i.imgur.com/WihLe9j.png' width="300px"/>
+<img src='https://i.imgur.com/kIBruQc.jpg' width="300px"/>
+
+
 
 
 
