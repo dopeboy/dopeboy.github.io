@@ -23,7 +23,7 @@ I followed [Kenji's recipe for Neapolitan dough](https://www.seriouseats.com/rec
 
 * Initially, I exposed each fourth of the pizza to the flame once and then took it out. This resulted in excessive burning. Exposing each quadrant to the flame for a shorter duration multiple times (~2, maybe 3) seems like the way to go. It's more of an even cook.
 
-* Dust the peel so that the dough doesn't stick to it when you try to slide it off into the oven.
+* Dust the peel with some flour so that the dough doesn't stick to it when you try to slide it off into the oven.
 
 <img src='https://i.imgur.com/BWEHaSv.png' width="400px"/>
 
