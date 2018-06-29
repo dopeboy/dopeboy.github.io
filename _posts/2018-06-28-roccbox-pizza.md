@@ -25,7 +25,7 @@ I followed [Kenji's recipe for Neapolitan dough](https://www.seriouseats.com/rec
 
 ## Results
 
-<img src='https://i.imgur.com/i4zD9cwl.png' width="300px"/>
+<img src='https://i.imgur.com/2gbup3j.png' width="300px"/>
 <img src='https://i.imgur.com/WihLe9j.png' width="400px"/>
 <img src='https://i.imgur.com/kIBruQc.jpg' width="400px"/>
 
