@@ -1,0 +1,18 @@
+---
+layout: post
+title: Traits of new hires
+---
+
+Fortune 500s invite me to train their new technical hires. These hires are typically straight out of school and have just completed their degree in computer science or some adjacent field. I've been doing this for years for the likes of Credit Suisse, UBS, and TIAA. Here are some observations I've made along the way:
+
+They're not familar with a service oriented architecture. The idea of a client (say, browser) talking to an always running service (say, HTTP server) is a new environment to them. They're most familar with running standalone executables typically in Java or Python. While the skills to produce those are useful, it still worries me that universities still only prepare students for what they did back in my day: backend engineers. There is a room for a more rounded approach here.
+
+They're very curious. A lot of the new hires I meet pick my brain on the new technologies and tools making waves. Since most of my training happens at financial institutions, crytocurrencies come up a lot. Though they lack the clout and authority when they start, I think this is the exact type of fresh thinking their companies will need to survive in the future. When I worked at Morgan Stanley, I was lucky to have a manager who gave me cover to explore experimental technologies after my day work was done. I hope these new hires find a similar manager.
+
+Some know how to problem solve when hitting an obstacle, probably ~20%. A lot of this is habit forming and comes with time. Being able to (1) grok the situation and (2) articulate the google query + keywords is still out of reach for many. When I get asked for help, I usually zoom in on these two sub-processes. They're usually able to handle the rest.
+
+There's are interesting cultural differences that come out from one geography to another. Once, when I was training in India, there were some new hires hanging out in the hallway. when I approached, they would hush and make a clear path for me as if I was some one who demanded a lot of respect. Later, I was told this is how educators (of any kind) are received in India. Another time, when I was training in Poland, one of the new hires wore a t-shirt that said something to the effect of "show me your chest" with an inappropriate outline below. None of his colleagues (male and female) said anything throughout the entire day. My co-trainers and I weren't sure what to do. We were his trainer but we were also outside consultants and non-Polish too. I think we ended up having a polite chat with him at the end of the day and moved on. 
+
+More than anything, it is refreshing and reinvigorating to meet the developers of the future. I always come away more excited and more energetic to tackle my own challenges after seeing their vigor. Even though I only work with them for a couple weeks, we form strong bonds through being in the trenches together. It will be exciting to see how they advance in their careers. I wonder how they'll look back at their training experience too.
+
+
