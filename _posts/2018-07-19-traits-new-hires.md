@@ -17,4 +17,6 @@ Fortune 500s invite me to train their new technical hires. These hires are typic
 
 More than anything, it is refreshing and reinvigorating to meet the developers of the future. I always come away more excited and more energetic to tackle my own challenges after seeing their vigor. Even though I only work with them for a couple weeks, we form strong bonds through being in the trenches together. It will be exciting to see how they advance in their careers. I wonder how they'll look back at their training experience too.
 
+Here's a group photo from when I was a trainee at Morgan Stanley:
+<img src='https://i.imgur.com/Jg0CRZr.jpg' width="400px"/>
 
