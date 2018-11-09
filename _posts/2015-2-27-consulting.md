@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Consulting
-image: bot2.png
 ---
 
 I get asked a lot about what software consulting (aka freelancing) is like. Full-time salaried software developers tend to be the most curious. This post is a collection of observations I've made from my brief time as a consultant. 
