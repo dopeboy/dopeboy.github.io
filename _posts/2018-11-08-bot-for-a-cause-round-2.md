@@ -31,8 +31,9 @@ Pretty good. [Kleiner Perkins](https://www.kleinerperkins.com/) took up the offe
 
 And here's how the money was used (from a student demo day):
 
-<img src='https://i.imgur.com/v8ctmOH.jpg' height="400" />
-
+<img src='https://i.imgur.com/KrgNmyv.jpg' height="400" />
+<img src='https://i.imgur.com/dPeb6Jc.jpg' height="400" />
+<img src='https://i.imgur.com/SK4QIkY.jpg' height="400" />
 
 ## Have you written a Slack bot before?
 
