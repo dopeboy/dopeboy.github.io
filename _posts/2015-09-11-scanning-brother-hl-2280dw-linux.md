@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Scanning with the Brother HL-2280DW on Linux
+image: bot.png
 ---
 
 When scanning on Linux using the Brother HL-2280DW, I've relied on reformedmusing's [invaluable guide](https://reformedmusings.wordpress.com/2013/01/26/setting-up-a-brother-hl-2280dw-in-ubuntu-12-10/) many times. In the guide, you must know the IP of the Brother machine in order to setup the scanner. If you're in a shared office setting like me where you don't have access to the router, this can be difficult. Here's a quick tip:
