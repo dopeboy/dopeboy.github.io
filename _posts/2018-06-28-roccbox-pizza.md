@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Neapolitan pizza in a Roccbox
+image: bot.png
 ---
 
 To cook good Neapolitan pizza, you need high heat (900F+). A conventional oven won't provide that so you need a specialized oven. After some research, I came across [Kenji's fantastic piece comparing multiple pizza ovens](https://www.seriouseats.com/2017/05/best-backyard-pizza-ovens-review.html) and ended up buying a [Roccbox](https://www.roccbox.com/us/product/).
