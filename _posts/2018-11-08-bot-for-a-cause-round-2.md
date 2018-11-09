@@ -13,9 +13,7 @@ I'll write a Slack bot that does whatever you want it to do (within reason) if y
 
 I’ve been a volunteer teacher with them for four years. Here’s a photo of me with some of my former students at a hackathon:
 
-<p align="center">
-     <img src="http://i.imgur.com/vpvRCg7.png" width="256"/>
-</p>
+<img src="http://i.imgur.com/vpvRCg7.png" width="256"/>
 
 ## Why am I doing this?
 
@@ -23,13 +21,18 @@ Because there are a lot of very bright kids that go through life never knowing t
 
 ## What will the money be used for?
 
-Your tax-deductible donation of $5000 will go towards purchasing 20 Chromebooks that ScriptEd students will use during classes and hackathons.
+Your tax-deductible donation of $5000 will go towards purchasing 20 Chromebooks that Code Nation students will use during classes and hackathons.
 
 ## How did it go last year?
 
-Pretty good. [Kleiner Perkins](https://www.kleinerperkins.com/) took up the offer and I shipped them something nice. Here's what William Wnekowicz said about the whole experience:
+Pretty good. [Kleiner Perkins](https://www.kleinerperkins.com/) took up the offer and I shipped them something nice. Here's what Will Wnekowicz, the engineer I worked with, said about the whole experience:
 
-```It was a pleasure working with Manish on a Slackbot to interface with our internal systems. I appreciate the work he does and the cause it supports.```
+> It was a pleasure working with Manish on a Slackbot to interface with our internal systems. I appreciate the work he does and the cause it supports.
+
+And here's how the money was used (student demo day):
+
+<img src='https://i.imgur.com/v8ctmOH.jpg' height="400" />
+
 
 ## Have you written a Slack bot before?
 
@@ -38,10 +41,10 @@ Aside from last year's drive, [yup](https://braidhq.com). This bot supports slas
 ## OK. What are the terms and conditions?
 
 1. If I agree to work with you, I’ll need a detailed specification that describes what the bot will do in gory detail. The scope of the bot needs to be within reason for something I would bill $5000 for.
-2. Once we agree on the specification, you’ll need to make an upfront donation of $2500 to ScriptEd so that I can confirm you’re serious. I’ll begin development once I’ve confirmed the donation.
+2. Once we agree on the specification, you’ll need to make an upfront donation of $2500 to Code Nation so that I can confirm you’re serious. I’ll begin development once I’ve confirmed the donation.
 3. I’ll write the Slack bot in Python using the Django framework. I’ll deploy it on Heroku. You’ll be responsible for the monthly Heroku charges.
 4. I’ll own the code until the bot is complete. Once it’s done and you’ve tested it, I’ll wait for you to make the second $2500 donation. Once I’ve confirmed that, I’ll transfer ownership of the Github repository storing the bot code over to you.
-5. I’ll aim to be all done by ~~September 30th~~ a date we can agree on.
+5. I’ll aim to be all done by a date we can agree on.
 6. Software is complex and unexpected things happen. After I’ve shipped the bot, I’ll be available for a month to squash any bugs that crop up.
 7. I won’t handle getting the bot approved for submission to the Slack app store. That'll be on you.
 
