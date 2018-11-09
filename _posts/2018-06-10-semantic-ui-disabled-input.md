@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Disabled controls in Semantic UI
+image: bot.png
 ---
 
 I'm a big fan of [Semantic UI](https://semantic-ui.com/) and use the React library in all my projects. One place where they could improve is how they decide to style disabled controls. For example, consider a form with one enabled and one disabled input box:
