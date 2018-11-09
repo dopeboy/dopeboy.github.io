@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ground rules
+image: bot_og.png
 ---
 
 I've become comfortable enough with writing to lay down some self-imposed rules:
