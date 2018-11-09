@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Observations I've made from training new technical hires
-image: bot.png
+image: featured-image.jpg
 ---
 
 Fortune 500s invite me to train their new technical hires. These hires are typically straight out of university and have just completed their degree in computer science or some adjacent field. I've been doing this for years for the likes of Credit Suisse, UBS, and TIAA. Here are some observations I've made along the way:
