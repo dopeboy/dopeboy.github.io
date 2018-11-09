@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I'll write a Slack bot for you if you donate $5000 to a non-profit that I love (round 2!)
+image: bot_og.png
 ---
 
 I did it [last year](http://dopeboy.github.io/bot-for-a-cause/) and I'm doing it again.
