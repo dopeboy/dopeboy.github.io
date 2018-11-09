@@ -29,7 +29,7 @@ Pretty good. [Kleiner Perkins](https://www.kleinerperkins.com/) took up the offe
 
 > It was a pleasure working with Manish on a Slackbot to interface with our internal systems. I appreciate the work he does and the cause it supports.
 
-And here's how the money was used (student demo day):
+And here's how the money was used (from a student demo day):
 
 <img src='https://i.imgur.com/v8ctmOH.jpg' height="400" />
 
@@ -42,7 +42,7 @@ Aside from last year's drive, [yup](https://braidhq.com). This bot supports slas
 
 1. If I agree to work with you, I’ll need a detailed specification that describes what the bot will do in gory detail. The scope of the bot needs to be within reason for something I would bill $5000 for.
 2. Once we agree on the specification, you’ll need to make an upfront donation of $2500 to Code Nation so that I can confirm you’re serious. I’ll begin development once I’ve confirmed the donation.
-3. I’ll write the Slack bot in Python using the Django framework. I’ll deploy it on Heroku. You’ll be responsible for the monthly Heroku charges.
+3. I’ll write the Slack bot in Python using the Django framework.
 4. I’ll own the code until the bot is complete. Once it’s done and you’ve tested it, I’ll wait for you to make the second $2500 donation. Once I’ve confirmed that, I’ll transfer ownership of the Github repository storing the bot code over to you.
 5. I’ll aim to be all done by a date we can agree on.
 6. Software is complex and unexpected things happen. After I’ve shipped the bot, I’ll be available for a month to squash any bugs that crop up.
