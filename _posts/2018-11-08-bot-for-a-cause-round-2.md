@@ -10,9 +10,9 @@ I'll write a Slack bot that does whatever you want it to do (within reason) if y
 
 ## What is Code Nation?
 
-[Code Nation](https://codenation.org/) is a non-profit that places developers in under-resourced high schools. These developers volunteer their time to teach HTML, CSS, and JavaScript. They have 200 volunteers that serve **over 900 students** across the Bay Area and New York City.
+[Code Nation](https://codenation.org/) is a non-profit devoted to equipping students with the coding skills, experiences, and connections to get a career in technology. They do this by placing developers in under-resourced schools, volunteering their time to teach HTML, CSS, and JavaScript. They have 250 volunteers serve over 1000 students across the Bay Area and New York City.
 
-I’ve been a volunteer teacher with them for four years. Here’s a photo of me with some of my former students at a hackathon:
+I volunteered with them for four years. Here’s a photo of me with some of my former students at a hackathon:
 
 <img src="http://i.imgur.com/vpvRCg7.png" width="256"/>
 
@@ -26,15 +26,17 @@ Your tax-deductible donation of $5000 will go towards purchasing 20 Chromebooks 
 
 ## How did it go last year?
 
-Pretty good. [Kleiner Perkins](https://www.kleinerperkins.com/) took up the offer and I shipped them something nice. Here's what Will Wnekowicz, the engineer I worked with, said about the whole experience:
+Pretty good. [Kleiner Perkins](https://www.kleinerperkins.com/) took up the offer and I shipped them something nice. Here's what Will Wnekowicz, the engineer over there who I worked with, said about the whole experience:
 
 > It was a pleasure working with Manish on a Slackbot to interface with our internal systems. I appreciate the work he does and the cause it supports.
 
 And here's how the money was used (from a student demo day):
 
-<img src='https://i.imgur.com/KrgNmyv.jpg' height="400" />
-<img src='https://i.imgur.com/dPeb6Jc.jpg' height="400" />
-<img src='https://i.imgur.com/SK4QIkY.jpg' height="400" />
+<p float="left">
+<img src='https://i.imgur.com/KrgNmyv.jpg' width="210"/>
+<img src='https://i.imgur.com/dPeb6Jc.jpg' width="310"  />
+<img src='https://i.imgur.com/SK4QIkY.jpg' width="310"  />
+  </p>
 
 ## Have you written a Slack bot before?
 
@@ -44,7 +46,7 @@ Aside from last year's drive, [yup](https://braidhq.com). This bot supports slas
 
 1. If I agree to work with you, I’ll need a detailed specification that describes what the bot will do in gory detail. The scope of the bot needs to be within reason for something I would bill $5000 for.
 2. Once we agree on the specification, you’ll need to make an upfront donation of $2500 to Code Nation so that I can confirm you’re serious. I’ll begin development once I’ve confirmed the donation.
-3. I’ll write the Slack bot in Python using the Django framework.
+3. I’ll write the Slack bot in Python using Django.
 4. I’ll own the code until the bot is complete. Once it’s done and you’ve tested it, I’ll wait for you to make the second $2500 donation. Once I’ve confirmed that, I’ll transfer ownership of the Github repository storing the bot code over to you.
 5. I’ll aim to be all done by a date we can agree on.
 6. Software is complex and unexpected things happen. After I’ve shipped the bot, I’ll be available for a month to squash any bugs that crop up.
