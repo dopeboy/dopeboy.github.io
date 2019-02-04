@@ -2,6 +2,7 @@
 layout: post
 title: Running the Seedstars django-react-redux-base boilerplate project on Heroku
 ---
+_Edit 02/04/19_: This is outdated and I would not advise using it anymore. We now have create-react-app too. Also, I rushed to using redux during this period. I would argue against redux (or any similar store solution) unless you have good reasons to use it.
 
 One of the biggest pains with doing modern full stack web development is in the configuration of the toolchain. Luckily, the folks at [Seedstars](https://www.seedstars.com/) have put together a [fantastic boilerplate project](https://github.com/Seedstars/django-react-redux-base), based on Django & React + Redux, that does all of that for you. 
 
