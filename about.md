@@ -8,15 +8,31 @@ permalink: /about/
 
 I like building things using software and hardware. I like dreaming big and I like being around big dreamers. There are few things that get me as excited as an idea, an empty whiteboard, and a fresh text editor. 
 
-## What I do
+## What I do for work
 
-I run a [small consultancy](https://www.thenorthstarlabs.com) where we write code and occasionally train others on how to write code. I'm a contributor to [Graphene](https://github.com/graphql-python/graphene-django), an open source library for Django. I'm currently focused on a stealth venture in the hardware space involving robotics.
+* I run a [small consultancy](https://www.thenorthstarlabs.com) where we write code and occasionally train others on how to write code.
+
+* I'm a contributor to [Graphene](https://github.com/graphql-python/graphene-django), an open source library for Django. 
+
+* I'm the president of the San Francisco chapter of the [Columbia Venture Community](columbia.vc) where I lead a twelve person board and do event programming around entrepreneurship for Columbia alums.
+
+* I'm currently focused on a stealth venture in the hardware space involving robotics.
+
+## What I do for fun
+
+* I'm part of the [Oakland chapter](openoakland.org) of Code For America and the co-founder of [Lane Lookout](https://www.lanelookout.org/), a free non-profit web app to help Oakland cyclists report bike lane violations.
+
+* I like [scuba diving](http://dopeboy.github.io/liveaboard/).
+
+* I like making [Neapolitan pizza](http://dopeboy.github.io/roccbox-pizza/).
 
 ## Fun facts
 
-* I've participated and/or mentored in over 15 hackathons. 
-* I scuba dive.
-* My favorite food is neapolitan pizza.
+* I've participated and/or mentored in over 15 hackathons, including the first ever hackathon in the Gaza strip.
+
+* I went to Egypt during the revoluton in 2011 (for fun!)
+
+* I once [met and talked to](https://drive.google.com/file/d/0B5UXiQO2EAQaMHdsQlV4el9VOGIwNWpRY01GY205U3NIUnRR/view?usp=sharing) President Obama in the Oval Office.
 
 <br/>
 
