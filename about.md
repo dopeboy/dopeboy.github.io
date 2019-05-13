@@ -10,7 +10,7 @@ I like building things using software and hardware. I like dreaming big and I li
 
 ## What I do
 
-I run a [small consultancy](https://www.thenorthstarlabs.com) where we write code and occasionally train others on how to write code. I'm currently focused on a stealth venture in the hardware space involving robotics.
+I run a [small consultancy](https://www.thenorthstarlabs.com) where we write code and occasionally train others on how to write code. I'm a contributor to [Graphene](https://github.com/graphql-python/graphene-django), an open source library for Django. I'm currently focused on a stealth venture in the hardware space involving robotics.
 
 ## Fun facts
 
