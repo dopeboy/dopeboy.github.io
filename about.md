@@ -18,4 +18,6 @@ I run a [small consultancy](https://www.thenorthstarlabs.com) where we write cod
 * I scuba dive.
 * My favorite food is neapolitan pizza.
 
+<br/>
+
 ![img](http://i.imgur.com/vpvRCg7.png)
