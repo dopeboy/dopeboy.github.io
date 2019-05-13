@@ -6,14 +6,16 @@ permalink: /about/
 
 ## Bio
 
-Software engineer based out of <s>NYC</s> the bay area. Used to work [here](http://ms.com) and [here](http://whitehouse.gov). Also launched a startup that [didn't work out](http://dopeboy.github.io/Lessons/). 
+I like building things using software and hardware. I like dreaming big and I like being around big dreamers. There are few things that get me as excited as an idea, an empty whiteboard, and a fresh text editor. 
 
-I like coding and teaching and sometimes [both at the same time](https://codenation.org/).
+## What I do
 
-I run a [small consulting shop](https://www.thenorthstarlabs.com) where we write code and occasionally train others on how to write code.
+I run a [small consultancy](https://www.thenorthstarlabs.com) where we write code and occasionally train others on how to write code. I'm currently focused on a stealth venture in the hardware space involving robotics.
+
+## Fun facts
+
+* I've participated and/or mentored in over 15 hackathons. 
+* I scuba dive.
+* My favorite food is neapolitan pizza.
 
 ![img](http://i.imgur.com/vpvRCg7.png)
-
-## Tools
-
-linux mint, vim, php, python, django, mysql, postgres, javascript, java, c#
