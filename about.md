@@ -26,6 +26,8 @@ I like building things using software and hardware. I like dreaming big and I li
 
 * I like making [Neapolitan pizza](http://dopeboy.github.io/roccbox-pizza/).
 
+* I'm a four year classroom volunteer for [Code Nation](codenation.org).
+
 ## Fun facts
 
 * I've participated and/or mentored in over 15 hackathons, including the first ever hackathon in the Gaza strip.
