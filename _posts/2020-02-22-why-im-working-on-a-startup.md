@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I'm working on a start
+title: Why I'm working on a startup
 ---
 
 Recently, I sat down with my friend Tim Wu. He's a fellow founder who wanted to pick my brain on a couple things when out of the blue, he asked me why I'm working on a startup.
