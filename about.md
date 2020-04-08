@@ -32,7 +32,7 @@ I like building things using software and hardware. I like dreaming big and I li
 
 * I've participated and/or mentored in over 15 hackathons, including the first ever hackathon in the Gaza strip.
 
-* I went to Egypt during the revoluton in 2011 (for fun!)
+* I went to Egypt during the revoluton in 2011, for fun. [Here's a photo](https://photos.app.goo.gl/zEURWZaeWx96k1nM8) of me near Tahrir Square in front a tank.
 
 * I used to work at the White House and once [met and talked to](https://drive.google.com/file/d/0B5UXiQO2EAQaMHdsQlV4el9VOGIwNWpRY01GY205U3NIUnRR/view?usp=sharing) President Obama in the Oval Office.
 
