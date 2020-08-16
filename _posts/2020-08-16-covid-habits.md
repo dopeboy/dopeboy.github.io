@@ -5,7 +5,7 @@ title: COVID has changed these habits of mine
 
 COVID-19 has changed several of my habits. Below, I write about which ones that have changed and a prediction on their permanency.
 
-* __Shopping__: I buy > 90% of my non-perishables online. I never liked in-person shopping and I haven't had a car for twelve years so this was trend was already in motion. When COVID hit, I subscribed to Amazon Prime which is big driver behind this percentage. The bulk of my in person shopping is done at the grocery store for buying perishable produce. I predict this to be a permanent change for me. I have fell in love with the convenience of clicking a button and seeing that product arrive two days later. The prices on Amazon are almost always cheaper than what I find at a B&M near me which offsets the cost of Prime.
+* __Shopping__: I buy > 90% of my non-perishables online. I never liked in-person shopping and I haven't had a car for twelve years so this trend was already in motion. When COVID hit, I subscribed to Amazon Prime which is big driver behind this percentage. The bulk of my in person shopping is done at the grocery store for buying perishable produce. I predict this to be a permanent change for me. I have fell in love with the convenience of clicking a button and seeing that product arrive two days later. The prices on Amazon are almost always cheaper than what I find at a B&M near me which offsets the cost of Prime.
 
 * __Fitness__: I live a one minute bike ride away from a 24 Hour Super Sport Gym. I no longer weight lift and because of that, my muscles have shrunk and I have gained weight. I now run but do not enjoy it as much. I will go to gyms when they reopen so I can get back to weight lifting.
 
