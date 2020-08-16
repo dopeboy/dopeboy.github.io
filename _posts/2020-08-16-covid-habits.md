@@ -14,3 +14,5 @@ COVID-19 has changed several of my habits. Below, I write about which ones that 
 * __Cooking__: Of my 14 lunch + dinner meals a week, I used to eat out ~10 times. Now, I cook that many times and eat out the rest. It's been a real joy to try new cuisines, eat healthier, and just be more creative with food. This won't be a permanent change for me because of time (I spend ~1hr/day cooking) but my cook to eat out ratio will probably settle to a 1:1 when we're back to normal.
 
 * __In-person meetings__: I moved to the Bay Area to meet smart people, in person. The bulk of that happened at conferences, bars, and restaurants. I no longer go to any those. This will not be a permanent change because the substitute---virtual gatherings---are not even 25% comparable to an in-person experience.
+
+* __Podcasts__: Prior to COVID, I had never listened to a podcast. Now, I cook a lot more and make the 6 hour car drive to my parents house every so often. Podcasts are the perfect background activity during these tasks. In fact, it actually makes those long tasks somewhat enjoyable.
