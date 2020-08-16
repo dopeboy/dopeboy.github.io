@@ -15,4 +15,4 @@ COVID-19 has changed several of my habits. Below, I write about which ones that 
 
 * __In-person meetings__: I moved to the Bay Area to meet smart people, in person. The bulk of that happened at conferences, bars, and restaurants. I no longer go to any those. This will not be a permanent change because the substitute---virtual gatherings---are not even 25% comparable to an in-person experience.
 
-* __Podcasts__: Prior to COVID, I had never listened to a podcast. Now, I cook a lot more and make the 6 hour car drive to my parents house every so often. Podcasts are the perfect background activity during these tasks. In fact, it actually makes those long tasks somewhat enjoyable. I definitely plan to continue listening because I love the medium - no ads, long format, deep intellectual discussions.
+* __Podcasts__: Prior to COVID, I had never listened to a podcast. Now, I cook a lot more and make the 6 hour car drive to my parents house every so often. Podcasts make those long tasks enjoyable. I plan to continue listening because I love the medium - no ads, long format, deep intellectual discussions.
