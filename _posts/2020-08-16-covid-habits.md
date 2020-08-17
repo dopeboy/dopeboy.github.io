@@ -7,7 +7,7 @@ COVID-19 has changed several of my habits. Below, I write about which ones that 
 
 * __Shopping__: I buy > 90% of my non-perishables online. I never liked in-person shopping and I haven't had a car for twelve years so this trend was already in motion. When COVID hit, I subscribed to Amazon Prime which is big driver behind this percentage. The bulk of my in person shopping is done at the grocery store for buying produce. I predict this to be a permanent change because of the convenience factor of clicking a button and getting it two days later.
 
-* __Fitness__: I live a one minute bike ride away from a 24 Hour Fitness Super Sport Gym. I no longer weight lift and because of that, my muscles have shrunk and I have gained weight. I now run but do not enjoy it as much. I go on atleast one walk everday---something I never did before. I will go to gyms when they reopen so I can get back to weight lifting.
+* __Fitness__: I live a one minute bike ride away from a 24 Hour Fitness Super Sport Gym. I no longer weight lift and because of that, my muscles have shrunk and I have gained weight. I now run but do not enjoy it as much. I go on atleast one walk everyday---something I never did before. I will go to gyms when they reopen so I can get back to weight lifting.
 
 * __Home__: For my entire adult life, I never invested in a nice home because I never spent time there. Prior to COVID, I'd be out of the house from 10 to 8 because of work and networking events. Now I am home all the time and have bought a desk lamp, a bigger monitor, and rearranged my furniture. I don't know whether this shift will be permanent because I don't know what in-person work will look like post COVID.
 
