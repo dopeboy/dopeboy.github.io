@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Bio
 
-I'm an engineer who likes building software for people. I've had to opportunity to ship software in government, on wall street, and now in Silicon Valley. The greatest joy I get is seeing my work impact people's lives - whether it's saving them time, saving them money, or providing a moment of fun.
+I'm an engineer who likes building software. I've had to opportunity to ship software in government, on wall street, and now in Silicon Valley. The greatest joy I get is seeing my work impact people's lives - whether it's saving them time, saving them money, or providing a moment of fun.
 
 ## What I value
 
@@ -42,4 +42,4 @@ Before that, I was the co-founder and CEO of Swoops, a fantasy sports basketball
 
 <br/>
 
-![img](http://i.imgur.com/vpvRCg7.png](https://i.imgur.com/FXWtxGE.jpeg)https://i.imgur.com/FXWtxGE.jpeg)
+![img](https://i.imgur.com/FXWtxGE.jpeg)[https://i.imgur.com/FXWtxGE.jpeg]
