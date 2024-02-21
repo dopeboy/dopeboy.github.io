@@ -6,21 +6,25 @@ permalink: /about/
 
 ## Bio
 
-I like building things using software and hardware. I like dreaming big and I like being around big dreamers. There are few things that get me as excited as an idea, an empty whiteboard, and a fresh text editor. 
+I'm an engineer who likes building software for people. I've had to opportunity to ship software in government, on wall street, and now in Silicon Valley. The greatest joy I get is seeing my work impact people's lives - whether it's saving them time, saving them money, or providing a moment of fun.
+
+## What I value
+
+* Speed. More often than not, doing things quickly is more important than doing things right. Both have their place, but the former approach optimizes for pace of learning, which in startups, is the most important thing. More about that here.
+
+* Integrity. Word spreads fast, reputations even faster. Do what you say and say what you do.
+
+* Persistence. When you get beat down, pick yourself and keep trying. You lose (and sometimes you have to) when you take yourself out of the game.
 
 ## What I do for work
 
-* I run a [small consultancy](https://www.thenorthstarlabs.com) where we write code for companies and occasionally train others on how to write code.
+I'm currently exploring building a startup in healthcare. Drop me a line if you are too! 
 
-* I'm a contributor to [Graphene](https://github.com/graphql-python/graphene-django), an open source library for Django. 
-
-* I'm the president of the San Francisco chapter of the [Columbia Venture Community](https://www.columbiaventurecommunity.com/) where I lead a twelve person board and do event programming around entrepreneurship for Columbia alums.
-
-* I'm currently focused on a stealth venture in the hardware space involving robotics.
+Before that, I was the co-founder and CEO of Swoops, a fantasy sports basketball game with the twist that you could own the players. Prior to that, I was an engineer at various early stage startups. And prior to that, I worked in Morgan Stanley and in the Obama White House.
 
 ## What I do for fun
 
-* I'm part of the [Oakland chapter](openoakland.org) of Code For America where I'm the co-founder of [Lane Lookout](https://www.lanelookout.org/), a free non-profit web app to help Oakland cyclists report bike lane violations.
+* I like riding my ~~motorcycle~~ Surron ebike. I haven't owned a car since 2008.
 
 * I like [scuba diving](http://dopeboy.github.io/liveaboard/).
 
@@ -30,12 +34,12 @@ I like building things using software and hardware. I like dreaming big and I li
 
 ## Fun facts
 
+* I had a motorcycle accident in 2023 and the paramedics gave me Fentanyl.
+
 * I've participated and/or mentored in over 15 hackathons, including the first ever hackathon in the Gaza strip.
 
 * I went to Egypt during the revoluton in 2011, for fun. [Here's a photo](https://photos.app.goo.gl/zEURWZaeWx96k1nM8) of me near Tahrir Square in front a tank.
 
-* I used to work at the White House and once [met and talked to](https://drive.google.com/file/d/12JkeNCtcG7tJkuMIJj5OFEQvfuyQsINX/view?usp=sharing) President Obama in the Oval Office.
-
 <br/>
 
-![img](http://i.imgur.com/vpvRCg7.png)
+![img](http://i.imgur.com/vpvRCg7.png](https://i.imgur.com/FXWtxGE.jpeg)https://i.imgur.com/FXWtxGE.jpeg)
