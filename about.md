@@ -10,7 +10,7 @@ I'm an engineer who likes building software. I've had to opportunity to ship sof
 
 ## What I value
 
-* Speed. More often than not, doing things quickly is more important than doing things right. Both have their place, but the former approach optimizes for pace of learning, which in startups, is the most important thing. More about that here.
+* Speed. More often than not, doing things quickly is more important than doing things right. Both have their place, but the former approach optimizes for pace of learning, which in startups, is the most important thing. More about that [here](https://dopeboy.github.io/speed/).
 
 * Integrity. Word spreads fast, reputations even faster. Do what you say and say what you do.
 
