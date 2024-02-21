@@ -42,4 +42,4 @@ Before that, I was the co-founder and CEO of Swoops, a fantasy sports basketball
 
 <br/>
 
-![img](https://i.imgur.com/FXWtxGE.jpeg)[https://i.imgur.com/FXWtxGE.jpeg]
+![img](https://i.imgur.com/FXWtxGE.jpeg)
