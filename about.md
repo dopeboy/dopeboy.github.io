@@ -18,9 +18,9 @@ I'm an engineer who likes building software. I've had to opportunity to ship sof
 
 ## What I do for work
 
-I'm currently exploring building a startup in healthcare. Drop me a line if you are too! 
+I'm currently exploring building a startup in the AI agents space, targeted towards Solutions Consultants. Drop me a line if you are too! 
 
-Before that, I was the co-founder and CEO of Swoops, a fantasy sports basketball game with the twist that you could own the players. Prior to that, I was an engineer at various early stage startups. And prior to that, I worked in Morgan Stanley and in the Obama White House.
+Before that, I was the co-founder and CEO of Swoops, a fantasy sports basketball game with the twist that you could own the players. Prior to that, I was an early engineer at Disco. And prior to that, I worked in Morgan Stanley and in the Obama White House.
 
 ## What I do for fun
 
@@ -30,11 +30,11 @@ Before that, I was the co-founder and CEO of Swoops, a fantasy sports basketball
 
 * I like making [Neapolitan pizza](http://dopeboy.github.io/roccbox-pizza/).
 
-* I'm a four year classroom volunteer for [Code Nation](https://codenation.org/).
+* I was a four year classroom volunteer for [Code Nation](https://codenation.org/).
 
 ## Fun facts
 
-* I had a motorcycle accident in 2023 and the paramedics gave me Fentanyl.
+* I had a motorcycle [accident](https://x.com/manishsinhaha/status/1694162032831205622) in 2023 and the paramedics gave me Fentanyl. Fortunately and unfortunately, it works pretty well.
 
 * I've participated and/or mentored in over 15 hackathons, including the first ever hackathon in the Gaza strip.
 
