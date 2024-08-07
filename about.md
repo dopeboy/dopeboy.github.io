@@ -20,7 +20,7 @@ I'm an engineer who likes building software. I've had to opportunity to ship sof
 
 I'm currently exploring building a startup in the AI agents space, targeted towards Solutions Consultants. Drop me a line if you are too! 
 
-Before that, I was the co-founder and CEO of Swoops, a fantasy sports basketball game with the twist that you could own the players. Prior to that, I was an early engineer at Disco. And prior to that, I worked in Morgan Stanley and in the Obama White House.
+Before that, I was the co-founder and CEO of Swoops, a fantasy sports basketball game with the twist that you could own the players. Prior to that, I was an early engineer at Disco. And prior to that, I was an engineer in Morgan Stanley and in the Obama White House.
 
 ## What I do for fun
 
