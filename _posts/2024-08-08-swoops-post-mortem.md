@@ -192,7 +192,7 @@ To our investors - thank you for believing in us, and in our wild vision to make
 
 And to our team - I will never forget how hard you worked and how much you cared. There were several late nights and weekends that you gave to pull things over the line. Though we were spread across the country and the world, we had one common bond: our love for sports. Thank you for pushing me as an engineer, as a leader, and as a first time founder. My most treasured moments overlap with being in the same room as you, working on hard problems together. I hope our paths cross again.
 
-<p float="">  
+<p align="center">  
 <img width="400" src="https://i.imgur.com/YGb7xA6.jpeg"/>  
 <img width="400" src="https://i.imgur.com/4Um4MUU.jpeg"/>  
 <img width="400" src="https://i.imgur.com/X484puz.jpeg"/>  
