@@ -1,3 +1,8 @@
+---
+layout: post
+title: Swoops post mortem
+---
+
 This is the story of [Swoops](https://mirror.xyz/msinha.eth/48qMua4okBPTA4Z8E-EIk6Qmu8EcOTkjiCF5KaL3PRQ), a fantasy sports company that I co-founded in the fall of 2021, and then wound down two years later.
 
 ## Early inspirations
