@@ -4,7 +4,7 @@ title: Swoops post mortem
 image: og.jpg
 ---
 
-This is the story of [Swoops](https://mirror.xyz/msinha.eth/48qMua4okBPTA4Z8E-EIk6Qmu8EcOTkjiCF5KaL3PRQ), a fantasy sports company that I co-founded in the fall of 2021, and then wound down two years later.
+This is the story behind [Swoops](https://mirror.xyz/msinha.eth/48qMua4okBPTA4Z8E-EIk6Qmu8EcOTkjiCF5KaL3PRQ), a fantasy sports company that I co-founded in the fall of 2021, and then wound down two years later.
 
 ## Early inspirations
 
@@ -201,13 +201,13 @@ And to our team - I will never forget how hard you worked and how much you cared
 
 ## What's next?
 
-I took some time to rest, relax, and write code for some awesome startups. It’s been great to just focus on one lane again.
+I took some time to rest, relax, and write code for some awesome startups. It's been great to just focus on one lane again.
 
 I returned to South Park Commons, with some mixed emotions because I felt like I failed the 4th grade and had to retake it. But it turned out to be the opposite because it’s been such a joy to be around other ambitious people. I want to give a special shoutout to three founders: Ashwin Lalendran, Patrick Lung, and Hari Raghavan. Whether you all realize it or not, I’ve found renewed confidence in myself after hanging around you guys.
 
-LLMs are one of the biggest innovations of our lifetime. What a privilege to see it play out in realtime. What a time to be alive. I want to build a new venture that uses this technology.
+LLMs are one of the biggest innovations of our lifetime. What a time to be alive. I want to build a new venture that uses this technology.
 
-[Zeeshan](https://x.com/_zeeshan_mughal) (eng #1 at Swoops) and I have been studying the role of AI engineer agents. We’re evaluating the Solutions Consultancy market, and asking what role–if any–do agents play in assisting with the deployment of tools like SAP, Salesforce, and Netsuite. These are often multi month, high five figure engagements; is there a way to trim that? 
+[Zeeshan](https://x.com/_zeeshan_mughal) (eng #1 at Swoops) and I have been studying the role of AI engineer agents. We’re evaluating the Solutions Consultancy market, and asking what role–if any–do agents play in assisting with the deployment of tools like SAP, Salesforce, and Netsuite. These are often multi month, high five figure engagements. Is there a way to trim that? 
 
 If you’re interested in this space, reach out over [email](mailto: arithmetic@gmail.com) or follow me on [twitter](https://x.com/manishsinhaha) or [linkedin](https://www.linkedin.com/in/manish-sinha-9675b366/).
 
