@@ -221,4 +221,4 @@ If you’re interested in this space, reach out over [email](mailto: arithmetic@
 
 [^3]: I know this seems obvious now, but it wasn’t “back then” during ZIRP times. It was all about blitzing your way to growth and an A round. Had we started a year earlier, I think we would have succeeded with this objective. 
 
-[4]: Neither is a walk in the park. But from the outside looking in, I get the sense there’s less luck involved in B2B.
+[^4]: Neither is a walk in the park. But from the outside looking in, I get the sense there’s less luck involved in B2B.
