@@ -16,7 +16,7 @@ This became known as [Underline Sports](https://x.com/underlinedfs). We shipped 
 
 1. Investors were put off by the huge CAC costs in the industry (count the number of betting ads next time you watch an NBA or NFL game and you'll see why).
 
-2. The creator economy had very few breakouts at the time which made it difficult for investors to form comps[^0].
+2. The creator economy had very few breakouts at the time which made it difficult for investors to form comps[[^0]].
 
 3. Though we were different from standard referral deals, many didn't think we were different enough.
 
@@ -160,7 +160,7 @@ As a last ditch effort, we pursued some M&A but no one was interested. Ultimatel
 
 Anything that would have changed the overall outcome? I'm not sure. Here are the big questions I'd ask if I could go back in time:
 
-* **Are NFTs needed?** This would have been crazy to ask when we started. But over time, NFTs became a huge barrier to growth. Wallets, marketplaces, gas fees–they all got in the way. I would have started with NFTs and very immediately migrated them off chain[^2].
+* **Are NFTs needed?** This would have been crazy to ask when we started. But over time, NFTs became a huge barrier to growth. Wallets, marketplaces, gas fees–they all got in the way. I would have started with NFTs and very immediately migrated them off chain[[^2]].
 
 * **Should we have used NBA IP?** John of VBA once told me (paraphrased): "people don't care about basketball, they care about the players who play it". Without NBA IP, we had no lore or world to piggyback off of. Our Swoopsters were robots and though we did attempt to create our own lore, it was no match for the connection people had with real NBA players. I suspect games like Sorare and NFL Rivals, who are using real world IP, are doing well for this reason, among others. 
 
@@ -172,11 +172,11 @@ Anything that would have changed the overall outcome? I'm not sure. Here are the
 
 * You never know where a path will lead you. I'm so lucky to have met Zach in OnDeck, discover my love for sports & gaming through Underline Sports, and ultimately meet my co-founder David. Take the meeting, talk with others, share your writing. Most of all, take action. Because action begets action.
 
-* Be ultra specific about your definition of product market fit. Then, do not collect pass go, do not collect $100, and do not build a big team until you're there. You need to survive long enough to hit this point, so conserve the cash to give yourself sufficient time to get there[^3]. 
+* Be ultra specific about your definition of product market fit. Then, do not collect pass go, do not collect $100, and do not build a big team until you're there. You need to survive long enough to hit this point, so conserve the cash to give yourself sufficient time to get there[[^3]]. 
 
 * Timing matters. Recognize “what’s in” and find your niche within it, if there is one. We started at a time when tailwinds were high, and the effects of them were real.
 
-* B2C is a wild world. There were some days I felt like I was plugged into the matrix. Drinking from the firehose of twitter, twitter DMs, and Discord was stressful. As I get older and think about sustainability, there is something in me that wants the calmer, more deterministic path found in B2B[^4].
+* B2C is a wild world. There were some days I felt like I was plugged into the matrix. Drinking from the firehose of twitter, twitter DMs, and Discord was stressful. As I get older and think about sustainability, there is something in me that wants the calmer, more deterministic path found in B2B[[^4]].
 
 * When building Swoops, I stopped going into SF, stopped catching up with friends, stopped hosting the SF django meetup, and instead just focused on building. I don’t want to make that mistake again. This game is a long one, and relationships accrete over time. I’m going to make time for them.
 
@@ -221,4 +221,4 @@ If you’re interested in this space, reach out over [email](mailto: arithmetic@
 
 [^3]: I know this seems obvious now, but it wasn’t “back then” during ZIRP times. It was all about blitzing your way to growth and an A round. Had we started a year earlier, I think we would have succeeded with this objective. 
 
-[^4]: Neither is a walk in the park. But from the outside looking in, I get the sense there’s less luck involved in B2B.
+[4]: Neither is a walk in the park. But from the outside looking in, I get the sense there’s less luck involved in B2B.
